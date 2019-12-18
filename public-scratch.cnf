@@ -1,0 +1,8 @@
+[client]
+host=public-scratch.cvwwn9esnrpn.us-east-1.rds.amazonaws.com
+port=3306
+user=root
+password=hokxan9AWS
+database=pdi
+local-infile=1
+

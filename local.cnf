@@ -1,0 +1,8 @@
+[client]
+host=localhost
+port=3306
+user=root
+password=hokxan9Mysql
+database=pdi
+local-infile=1
+loose-local-infile=1

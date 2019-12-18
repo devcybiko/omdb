@@ -1,0 +1,2967 @@
+"id","name","parent_id","date"
+"1","カウボーイビバップ",\N,"1998-10-23"
+"36","The Simpsons","34","2019-12-15"
+"202","Star Trek","151","1969-06-03"
+"208","Star Trek: The Next Generation","151","1994-05-23"
+"282","Star Trek: The Animated Series","151","1973-09-08"
+"283","Star Trek: Deep Space Nine","151","1999-05-29"
+"323","The L Word",\N,"2009-03-08"
+"447","Twin Peaks",\N,"1991-06-10"
+"915","Friends",\N,"2004-05-06"
+"1053","Blood+",\N,"2005-10-22"
+"1275","Star Trek: Voyager","151","2001-05-23"
+"1276","Star Trek: Enterprise","151","2005-05-13"
+"1286","Seinfeld",\N,"1998-05-14"
+"1445","Heroes","102680","2010-02-08"
+"1500","Teenage Mutant Ninja Turtles","1582","1987-12-10"
+"1501","Prison Break",\N,"2017-05-30"
+"1502","Scrubs",\N,"2010-03-17"
+"22864","Flight of the Conchords",\N,"2009-03-22"
+"1671","Doctor Who",\N,"2013-05-18"
+"1704","House M.D.",\N,"2012-05-21"
+"1706","Stargate SG-1","14450","2007-06-22"
+"1708","Stargate: Atlantis","14450","2009-01-09"
+"1742","The Joy of Painting",\N,"1983-05-01"
+"1745","Sesame Street",\N,"1969-11-10"
+"1748","Reading Rainbow",\N,"1983-06-06"
+"1751","Mister Rogers' Neighborhood",\N,"1968-02-18"
+"1754","The Magic School Bus",\N,"1994-09-10"
+"1759","DuckTales",\N,"1987-09-18"
+"1762","That '70s Show",\N,"2006-05-18"
+"23138","Damages",\N,"2012-09-12"
+"23139","Everybody Loves Raymond",\N,"2005-05-16"
+"1794","The Incredible Hulk","93349","1978-03-10"
+"1797","Beverly Hills, 90210",\N,"2000-05-18"
+"1800","Saved by the Bell",\N,"1989-08-20"
+"1805","Beavis and Butt-head",\N,"1997-11-28"
+"1856","The Transformers","8650","1984-09-17"
+"1982","The Smurfs","75946",\N
+"2328","Wilsberg",\N,"2019-11-30"
+"2339","Hellsing",\N,"2006-02-10"
+"2351","Blam !",\N,"1985-10-08"
+"2352","Blam !",\N,\N
+"2354","Auf Achse",\N,"1986-01-01"
+"2364","The Saint",\N,"1962-10-04"
+"2367","Family Guy",\N,"2019-11-24"
+"2407","Guyver","2404","2005-01-01"
+"2419","Commissaire Moulin",\N,"1981-11-05"
+"2458","Cap des Pins",\N,"2000-07-21"
+"2466","Quo Vadis?",\N,"1985-01-01"
+"2471","The 4400",\N,"2007-09-16"
+"2477","Türkisch für Anfänger",\N,"2008-12-12"
+"2480","Zwei Engel für Amor",\N,"2006-11-14"
+"2483","Großstadtrevier",\N,"2017-11-06"
+"2489","Robin of Sherwood",\N,"1986-04-05"
+"2495","Grey's Anatomy",\N,"2019-11-21"
+"2498","The Prisoner",\N,"1968-02-04"
+"2505","星の王子さま　プチ・プランス",\N,"1982-09-01"
+"2513","Boston Legal",\N,"2008-12-08"
+"2519","Samurai gan",\N,"2004-10-05"
+"2522","24 - Twenty Four",\N,"2010-05-24"
+"2540","Alles was zählt",\N,"2010-11-12"
+"2543","Bones",\N,"2017-03-28"
+"2547","CSI: NY",\N,"2013-02-22"
+"2550","NYDP Blue",\N,"1994-02-15"
+"2555","The King of Queens",\N,"2007-05-14"
+"2558","Farscape",\N,"2002-06-07"
+"2568","The Protectors",\N,"1974-01-26"
+"2578","Da Ali G Show",\N,"2004-08-22"
+"2583","Tatort",\N,"2019-12-22"
+"2603","Charmed",\N,"2006-05-21"
+"2680","Polizeiruf 110",\N,"2019-12-08"
+"34026","Warehouse 13",\N,"2014-05-19"
+"2714","Sport Billy",\N,"1979-12-02"
+"2810","Knight Rider",\N,"1986-04-04"
+"2864","Lost",\N,"2010-05-23"
+"3018","Frankenstein, Jr. and the Impossibles",\N,"1967-01-07"
+"3044","ReGenesis",\N,"2005-01-23"
+"3135","Frankensteinova teta",\N,"1987-03-22"
+"28253","Life Unexpected",\N,"2011-01-18"
+"3219","Mein Leben & Ich",\N,"2009-12-20"
+"3294","Band of Brothers",\N,"2001-11-04"
+"3307","Futurama",\N,"2013-09-04"
+"3491","Drums of Fu Manchu",\N,"1940-03-15"
+"3530","NCIS",\N,"2019-05-21"
+"3550","Inspecteur Moretti",\N,"1997-02-25"
+"3567","Morlock",\N,"1994-03-09"
+"3605","Flash Gordon",\N,"2007-10-12"
+"3617","Flash Gordon",\N,"1936-04-06"
+"3633","Flash Gordon",\N,"1955-07-15"
+"3704","The New Animated Adventures of Flash Gordon",\N,"1980-11-10"
+"3743","Flash Gordon's Trip to Mars",\N,"1938-03-21"
+"3760","Flash Gordon Conquers the Universe",\N,"1940-03-03"
+"3788","Buck Rogers",\N,"1939-02-06"
+"3802","Buck Rogers",\N,\N
+"3803","Buck Rogers in the 25th Century",\N,"1981-04-16"
+"3847","The Purple Monster Strikes",\N,"1945-08-03"
+"3868","Adventures of Captain Marvel",\N,"1941-03-28"
+"3885","The Masked Marvel",\N,"1943-11-06"
+"3903","Batman and Robin","263","1949-05-26"
+"3990","Blondie",\N,"1957-06-28"
+"3992","South Park",\N,"2019-10-30"
+"4045","AlloCiné Talkshow Stars",\N,\N
+"4052","Thunderbirds",\N,"1966-12-25"
+"4053","Blondie",\N,"1969-01-09"
+"4116","The Batman","263","1943-04-15"
+"4137","The New Batman Adventures","263","1999-01-16"
+"4145","Les oiseaux rares",\N,"1969-03-27"
+"4197","Batman","263","1992-09-14"
+"4215","Dr. Psycho - Die Bösen, die Bullen, meine Frau und ich",\N,"2008-08-12"
+"4245","Babeck",\N,"1968-12-28"
+"4262","Primeval",\N,"2011-06-28"
+"4294","Julie Lescaut",\N,"2008-10-08"
+"4298","Stahlnetz",\N,"2002-09-29"
+"4356","Die großen Kriminalfälle",\N,"2007-10-29"
+"4490","Kriminalfälle ohne Beispiel",\N,"1975-07-06"
+"4504","Rückblende",\N,"1997-01-01"
+"4576","Dem Täter auf der Spur",\N,"1967-06-15"
+"4602","Kommissarin Lucas",\N,"2019-08-31"
+"4617","Lutter",\N,"2008-04-12"
+"4621","Inspektor Rolle",\N,"2004-03-03"
+"4646","Der Bestseller",\N,"2004-11-19"
+"4686","Irgendwie und sowieso",\N,"1986-12-23"
+"4714","Die Hausmeisterin",\N,"1992-01-01"
+"4760","Zur Freiheit",\N,"1987-01-01"
+"4817","Der Schwammerlkönig",\N,"1988-04-01"
+"4842","Josef Filser",\N,"1989-01-01"
+"4859","Die schnelle Gerdi",\N,"1989-12-17"
+"4867","Die schnelle Gerdi und die Hauptstadt",\N,"2004-03-10"
+"4876","Ein Schloß am Wörthersee",\N,"1993-12-05"
+"4914","Allein unter Bauern",\N,"2007-05-02"
+"5189","Murder, She Wrote","111780","1996-05-19"
+"5208","The Office",\N,"2003-12-27"
+"5299","Red Shoe Diaries",\N,"1996-01-01"
+"5304","Cracker",\N,"2006-10-01"
+"5402","The Dresden Files",\N,"2007-04-15"
+"5505","Stellenbosch",\N,"2007-12-16"
+"5530","Finders Keepers",\N,"1991-12-31"
+"5555","RoboCop: Prime Directives","5547","2001-01-25"
+"5565","RoboCop","5547","1994-11-21"
+"5659","Hollywood Women",\N,"1994-12-31"
+"5670","The Incredibly Strange Film Show",\N,"1988-01-01"
+"5695","The League of Gentlemen",\N,"1999-01-11"
+"5806","Commissario Laurenti",\N,"2009-01-08"
+"5812","Solo für Schwarz",\N,"2007-11-12"
+"5836","Das Duo",\N,"2012-09-15"
+"5861","Der König von St. Pauli",\N,"1998-01-21"
+"5942","K3 - Kripo Hamburg",\N,"2007-11-18"
+"6033","Miss Marple",\N,"1992-12-27"
+"6049","Agatha Christie's Marple",\N,"2013-12-29"
+"6082","CSI: Crime Scene Investigation",\N,"2015-09-27"
+"6092","Without a Trace",\N,"2009-05-19"
+"6095","Law & Order: Criminal Intent",\N,"2011-06-26"
+"6133","Trautmann",\N,"2007-01-01"
+"6188","Die Verbrechen des Professor Capellari",\N,"2001-02-11"
+"6191","Bloch",\N,"2013-04-24"
+"6287","Criminal Minds",\N,"2019-02-06"
+"6292","Gilmore Girls",\N,"2007-05-15"
+"6314","Pfarrer Braun",\N,"2012-05-10"
+"6321","Cold Case",\N,"2010-05-02"
+"6326","Crossing Jordan",\N,"2007-05-16"
+"6342","Supernatural",\N,"2019-04-25"
+"6347","Ally McBeal",\N,"2002-05-20"
+"6362","Liebe, Lügen, Leidenschaften",\N,\N
+"6370","Seven Days",\N,"1999-05-26"
+"6390","Kommissar Rex",\N,"2013-12-21"
+"6402","Oberinspektor Victor Marek",\N,"1992-01-01"
+"6425","Unter Verdacht",\N,"2019-10-25"
+"6430","CSI: Miami",\N,"2012-04-08"
+"6445","Die Landärztin",\N,"2013-06-21"
+"6454","Schimanski",\N,"2013-11-10"
+"6457","Einsatz in Hamburg",\N,"2013-02-09"
+"6475","Arabela",\N,\N
+"6483","Melissa",\N,\N
+"6484","Melissa",\N,\N
+"6490","Agathe kanns nicht lassen",\N,"2007-01-04"
+"6545","Der letzte Zeuge",\N,"2005-04-29"
+"6576","Battlestar Galactica",\N,"2009-03-20"
+"6577","According to Jim",\N,"2009-06-02"
+"6595","Rotlicht",\N,"2003-01-01"
+"6611","Ein starkes Team",\N,"2019-10-19"
+"6625","Sperling",\N,"2007-03-10"
+"6712","Bella Block",\N,"2017-10-13"
+"6716","Columbo",\N,"2003-01-30"
+"6742","Married... with Children",\N,"1997-06-09"
+"6885","Angela's Eyes",\N,"2006-10-15"
+"6890","Men In Trees",\N,"2008-06-11"
+"6903","Malcolm in the Middle",\N,"2006-05-14"
+"7044","Quantum Leap",\N,"1993-05-05"
+"7067","Psych",\N,"2014-03-26"
+"7194","Babylon 5",\N,"1998-11-25"
+"7283","Shadows Raiders",\N,"1998-09-19"
+"7352","Desperate Housewives",\N,"2012-05-13"
+"7784","The Simpsons Shorts","34","1989-05-14"
+"7854","Home Improvement",\N,"1999-05-25"
+"7976","Une femme d'honneur",\N,"2005-04-28"
+"7982","Threshold",\N,"2006-02-01"
+"7989","Porno Valley",\N,"2004-04-04"
+"8006","Power Rangers",\N,"2008-02-18"
+"34906","Danger Mouse",\N,\N
+"8098","Dexter",\N,"2013-09-22"
+"8126","Im Namen des Gesetzes",\N,"2008-10-30"
+"8131","The Big Bang Theory",\N,"2019-05-16"
+"8158","Eureka",\N,"2012-07-16"
+"8187","E-Ring",\N,"2006-05-01"
+"8295","My So-Called Life",\N,"1995-01-26"
+"8362","Uchū Kaizoku Kyaputen Hārokku",\N,"1978-01-01"
+"8395","Monk",\N,"2009-12-04"
+"8472","Avatar: The Last Airbender",\N,"2008-07-19"
+"8559","American Chopper",\N,"2003-11-03"
+"8589","M*A*S*H",\N,"1983-02-28"
+"8634","Numb3rs",\N,"2010-03-12"
+"8655","Samantha Who?",\N,"2009-07-23"
+"8706","Smallville","8537","2011-05-13"
+"34301","A Shot at Love with Tila Tequila",\N,"2008-06-24"
+"8949","TV total",\N,"2011-01-10"
+"8956","Alles was zählt",\N,\N
+"9811","Das perfekte Dinner",\N,\N
+"9848","Threat Matrix",\N,"2004-01-29"
+"10038","最終 兵器 彼女 Saishû heiki kanojo",\N,"2002-01-01"
+"10233","The Innocent Man",\N,"2018-12-14"
+"10508","Ghost Whisperer",\N,"2010-05-21"
+"45927","Upps! Die Pannenshow",\N,\N
+"11262","Moonlight",\N,"2008-05-16"
+"11750","Sledge Hammer!",\N,"1988-02-12"
+"11987","How I Met Your Mother",\N,"2014-03-31"
+"12283","Donna Leon",\N,"2019-12-25"
+"12286","Reaper",\N,"2009-06-29"
+"12438","Deux ans de vacances",\N,"1974-06-10"
+"12440","FlashForward",\N,"2010-05-27"
+"12924","The IT Crowd",\N,"2013-09-27"
+"12666","Flashpoint",\N,"2012-12-13"
+"12733","Le secret des flamands",\N,\N
+"12785","Der Clown",\N,\N
+"12835","Mathias Sandorf",\N,\N
+"12843","True Blood",\N,"2014-08-24"
+"12856","Terminator: The Sarah Connor Chronicles",\N,"2009-04-10"
+"12869","The Wire",\N,"2008-03-09"
+"34907","Danny Phantom",\N,\N
+"13122","Der durstige Planet",\N,"2004-09-07"
+"13143","The Munsters",\N,"1966-03-10"
+"13194","The Sopranos",\N,"2007-06-10"
+"13380","L'éducation sentimentale",\N,"1973-03-15"
+"34799","Silent Witness",\N,"2018-02-06"
+"13401","Hausmeister Krause – Ordnung muss sein",\N,"2010-07-14"
+"13489","The Tudors",\N,"2010-06-20"
+"13577","Martial Law",\N,"2000-05-13"
+"13625","Hogan’s Heroes",\N,"1971-04-04"
+"13651","MacGyver","81495","1992-05-21"
+"13655","Axel! will's wissen",\N,"2006-03-20"
+"33948","Hustle",\N,"2012-02-17"
+"14171","The X-Files","14480","2018-03-21"
+"35223","D・N・A² ～何処かで失くしたあいつのアイツ～",\N,"1994-10-07"
+"14426","Rote Erde",\N,"1990-03-25"
+"34920","The Emperor’s New School",\N,\N
+"34918","Lucky Luke",\N,\N
+"34919","Les Nouvelles aventures de Lucky Luke",\N,\N
+"35010","カリメロ",\N,\N
+"14720","Leo - ein fast perfekter Typ",\N,"2007-01-14"
+"14756","Shin Seiki Evangerion",\N,"1996-03-27"
+"14807","Jericho",\N,"2008-03-25"
+"14828","I'm a Celebrity... Get Me Out Of Here!",\N,\N
+"14837","Carnivàle",\N,"2005-03-27"
+"14838","The next Uri Geller",\N,\N
+"14902","Jekyll",\N,"2007-06-16"
+"14924","Andy Richter Controls the Universe",\N,"2006-10-04"
+"14958","The War at Home",\N,"2007-04-22"
+"15035","Burakku Ragûn",\N,"2006-12-18"
+"15113","The Addams Family",\N,"1964-10-23"
+"15122","Fringe",\N,"2013-01-18"
+"15139","Huntik",\N,"2009-02-19"
+"28904","Kojak",\N,"2005-05-22"
+"15177","Eli Stone",\N,"2009-04-28"
+"15180","Chuck",\N,"2012-01-27"
+"15197","Pushing Daisies",\N,"2009-03-11"
+"15470","Cheers",\N,"1993-05-20"
+"15514","Falcon Crest",\N,"1990-05-18"
+"35434","Dr. Stefan Frank – Der Arzt, dem die Frauen vertrauen",\N,"1995-04-13"
+"15597","30 Rock",\N,"2013-01-31"
+"15622","Arabela",\N,\N
+"15623","Návštěvníci",\N,\N
+"15625","Arabela se vrací",\N,\N
+"15626","Létající Čestmír",\N,\N
+"15627","Lucie, postrach ulice",\N,\N
+"15628","Pan Tau",\N,\N
+"15629","Chobotnice z II. patra",\N,"1987-07-01"
+"15639","Californication",\N,"2009-12-13"
+"15786","In fuga per la vita",\N,"1993-03-21"
+"15818","Heimat - Eine deutsche Chronik","15816","1984-10-24"
+"15819","Die zweite Heimat – Chronik einer Jugend","15816","1993-03-04"
+"15862","The Mentalist",\N,"2015-02-18"
+"15913","The West Wing",\N,"2006-05-14"
+"16011","Six Feet Under",\N,"2005-08-21"
+"16066","Extralarge",\N,"1993-10-29"
+"16220","Rodney",\N,"2008-06-12"
+"16520","The District",\N,"2004-05-01"
+"16550","Law & Order",\N,"2010-05-24"
+"16588","Judging Amy",\N,"2005-05-03"
+"16614","McLeod's Daughters",\N,"2009-01-29"
+"16638","The O.C.",\N,"2007-02-22"
+"16694","Still Standing",\N,"2006-03-08"
+"16761","Torchwood",\N,"2011-09-09"
+"16803","Private Practice",\N,"2013-01-22"
+"16828","ER",\N,"2009-04-02"
+"16852","Fast wia im richtigen Leben",\N,"1979-06-30"
+"16892","Life",\N,"2009-04-08"
+"35012","The Ewoks",\N,\N
+"16992","Law & Order: Special Victims Unit",\N,"2019-05-16"
+"17094","Gene Roddenberry’s Andromeda",\N,"2005-05-13"
+"17160","Dead Like Me",\N,"2004-10-31"
+"17185","Aliens in America",\N,"2008-05-18"
+"17209","The Walking Dead",\N,"2019-11-24"
+"17510","The Nanny",\N,"1999-06-25"
+"17629","Harper’s Island",\N,"2009-07-11"
+"17679","What I Like About You",\N,"2006-03-24"
+"17711","The A-Team",\N,"1987-03-08"
+"17752","Justice",\N,"2007-02-28"
+"17766","Medical Investigation",\N,"2005-03-25"
+"17814","Surface",\N,"2006-02-06"
+"34781","Ice Road Truckers",\N,"2007-09-09"
+"17865","Will & Grace",\N,"2019-04-04"
+"17920","Two and a Half Men",\N,"2015-02-19"
+"17947","My Wife and Kids",\N,"2005-05-17"
+"17978","Kings",\N,"2009-07-25"
+"18018","Medium",\N,"2011-01-21"
+"18429","Veronica Mars","100070","2007-05-22"
+"18471","Defying Gravity",\N,"2009-09-11"
+"18706","Buffy the Vampire Slayer",\N,"2003-05-20"
+"18885","Into The West",\N,"2005-07-22"
+"18899","Sliders",\N,"2000-02-04"
+"18962","Joey",\N,"2006-07-29"
+"18988","Everybody Hates Chris",\N,"2009-05-08"
+"19148","Lipstick Jungle",\N,"2009-01-09"
+"19259","The Closer",\N,"2012-08-13"
+"19330","Eleventh Hour",\N,"2009-04-02"
+"19434","NCIS: Los Angeles",\N,"2019-05-19"
+"19646","The Pillars of the Earth",\N,"2010-08-27"
+"19683","Burn Notice",\N,"2012-12-20"
+"19836","Stromberg",\N,"2011-11-08"
+"33656","Southland",\N,"2013-04-17"
+"20095","Sleeper Cell",\N,"2006-12-17"
+"20150","Secret Diary of a Call Girl",\N,"2011-03-15"
+"20153","Dead Set",\N,"2008-10-31"
+"35026","Todd McFarlane's Spawn","89976","1999-05-23"
+"20195","The Pretender",\N,\N
+"20261","Legend of the Seeker",\N,"2010-05-22"
+"20299","Entourage",\N,"2011-09-11"
+"20564","Gossip Girl",\N,"2012-12-17"
+"20695","The Shield",\N,"2008-11-25"
+"20839","Knight Rider",\N,"2009-03-04"
+"22875","Marienhof",\N,"2010-11-02"
+"20994","Firefly","88278","2003-08-04"
+"21129","Extras",\N,"2006-10-19"
+"21181","Parker Lewis Can't Lose",\N,"1993-06-13"
+"21182","Kommissar LaBréa",\N,"2010-04-22"
+"21216","The Lost Room",\N,"2006-12-13"
+"21497","Rome",\N,"2007-03-25"
+"21499","KDD - Kriminaldauerdienst",\N,"2008-06-20"
+"21507","SpongeBob SquarePants",\N,"2010-10-04"
+"21542","Die Wächter",\N,"1986-03-26"
+"21587","The Vampire Diaries",\N,"2017-03-10"
+"21661","Doctor's Diary",\N,"2011-02-16"
+"21764","Alles Atze",\N,"2007-06-22"
+"21765","Alarm für Cobra 11 -  Die Autobahnpolizei",\N,"2019-11-14"
+"21772","The Avengers",\N,"1969-04-21"
+"21801","Dollhouse",\N,"2009-10-23"
+"21796","SOKO 5113","124189","2019-12-23"
+"21803","Mad Men",\N,"2015-05-17"
+"21853","Kir Royal",\N,"1986-10-27"
+"21863","Klemperer - Ein Leben in Deutschland",\N,"1999-11-18"
+"21910","Lindenstraße",\N,"2019-11-03"
+"21968","GZSZ",\N,"2010-10-29"
+"22029","The 10th Kingdom",\N,"2000-02-27"
+"22033","Frasier",\N,"2004-05-04"
+"22087","Verliebt in Berlin",\N,"2007-10-12"
+"22239","Dynasty",\N,"1989-05-10"
+"22475","The Colbys",\N,\N
+"22480","My Name Is Earl",\N,"2009-11-05"
+"22706","Nip/Tuck",\N,"2010-03-03"
+"22717","Queer as Folk",\N,"2005-08-07"
+"22725","Queer as Folk",\N,"2000-02-22"
+"22733","Sex and the City",\N,"2004-02-22"
+"22734","Angel",\N,"2004-05-19"
+"22854","Arrested Development",\N,"2006-02-10"
+"22904","Hannah Montana",\N,"2011-01-16"
+"22905","Blade: The Series","735","2006-09-13"
+"22907","The Fall Guy",\N,"1986-05-02"
+"22908","Dark Angel",\N,"2002-05-03"
+"22928","Perfect Strangers",\N,"1988-03-25"
+"23007","Ein Herz und eine Seele",\N,"1976-11-22"
+"23020","Berlin, Berlin",\N,"2002-03-05"
+"23027","The New Adventures of Old Christine",\N,"2006-03-13"
+"23034","Rules of Engagement",\N,"2013-05-05"
+"28388","V",\N,"2011-03-15"
+"23144","Battlestar Galactica - Miniseries",\N,"2003-12-09"
+"23145","Home and Away",\N,\N
+"23151","Adelheid und ihre Mörder",\N,"2007-06-05"
+"23159","Weeds",\N,"2012-09-16"
+"23184","American Dad",\N,"2019-04-08"
+"23186","The Wonder Years",\N,"1993-05-12"
+"23225","Freddie",\N,"2006-04-12"
+"33645","Ritas Welt",\N,"2003-12-19"
+"23319","Die Schwarzwaldklinik",\N,"1988-03-26"
+"23391","The Office",\N,"2013-05-16"
+"23397","Blossom",\N,"1995-05-22"
+"23401","Melrose Place",\N,"1999-05-24"
+"23649","Ugly Betty",\N,"2010-04-14"
+"23717","Dawson's Creek",\N,"2003-05-14"
+"24141","The Guardian",\N,"2004-05-04"
+"23830","Whistler",\N,"2007-12-15"
+"23859","10-8: Officers on Duty",\N,"2004-01-25"
+"25914","Wildfire",\N,"2008-05-26"
+"24720","P.M. Faszination Universum - Staffel 1: Die Entstehung des Sonnensystems",\N,\N
+"24899","The Passage",\N,\N
+"24900","Stargate Universe","14450","2011-05-09"
+"42578","Earth Story",\N,"1998-01-01"
+"24915","P.M. Natur & Umwelt - Staffel 1: Geheimnis Ozean",\N,\N
+"24917","P.M. Planeten & Weltall - Staffel 1: Pioniere im All",\N,\N
+"24918","P.M. Wissenschaft & Technik - Staffel 1: Darwin: Die Evolution einer Idee",\N,\N
+"24921","Verbotene Liebe",\N,"2010-11-08"
+"24926","Sophie – Braut wider Willen",\N,"2006-03-10"
+"24953","Il Commissario Montalbano",\N,"2018-02-12"
+"24966","Monty Python – Almost The Truth – The Lawyer’s Cut",\N,\N
+"25055","Ørnen: En krimi-odyssé",\N,"2006-11-26"
+"25061","Schillerstraße – Best Of Staffel 1 & 2",\N,\N
+"25182","Who’s the Boss?",\N,"1992-04-25"
+"25437","Misfits",\N,"2011-12-18"
+"25455","Loriot",\N,"1978-06-15"
+"25652","The Cosby Show",\N,"1992-04-30"
+"25738","Alf",\N,"1990-03-24"
+"25827","Freddy's Nightmares","10182","1990-03-12"
+"25891","Midsomer Murders",\N,"2018-08-14"
+"25892","Inspector Lynley - Die komplette Box",\N,\N
+"25899","MythBusters – Die Wissensjäger - Volume 1",\N,\N
+"26469","Breaking Bad",\N,"2013-09-29"
+"34192","The Oblongs",\N,\N
+"26519","Flamingo Road",\N,\N
+"26524","Curb Your Enthusiasm",\N,"2009-11-20"
+"26531","Hung",\N,"2010-09-12"
+"26665","Bionic Woman",\N,"2007-11-28"
+"34945","Forbrydelsen",\N,"2007-01-28"
+"34195","ヒカルの碁",\N,"2001-10-10"
+"26750","Hawthorne",\N,"2010-08-24"
+"26814","Countdown - Die Jagd beginnt",\N,"2012-03-01"
+"26837","Familie Heinz Becker",\N,"2004-03-12"
+"33985","Manni, der Libero",\N,\N
+"26921","Journeyman",\N,"2007-12-19"
+"26936","The Listener",\N,"2009-05-26"
+"26985","Wan Pīsu","16118","2010-09-05"
+"27063","Pastewka",\N,"2014-09-19"
+"33943","Recess",\N,\N
+"27187","Boardwalk Empire",\N,"2010-12-05"
+"27211","Star Wars: The Clone Wars",\N,"2010-01-01"
+"27340","Flatmates",\N,\N
+"27341","2013",\N,\N
+"27346","Im Angesicht des Verbrechens",\N,"2010-05-11"
+"27377","Les vampires",\N,"1916-06-30"
+"27473","Caprica",\N,"2010-11-30"
+"27476","Castle",\N,"2016-05-16"
+"34874","Aladdin",\N,\N
+"27550","Glee",\N,"2012-05-22"
+"27559","Fraggle Rock",\N,"1987-03-30"
+"34925","Weissensee",\N,"2018-05-10"
+"27627","Crash",\N,"2009-11-27"
+"27666","Baywatch",\N,"2001-05-14"
+"27865","Human Target",\N,"2011-02-09"
+"27927","1-800-Missing",\N,"2006-02-05"
+"27947","Dark Blue",\N,"2010-09-15"
+"28101","Community",\N,"2015-06-02"
+"28196","Being Human",\N,"2013-03-10"
+"28260","The Sarah Silverman Program",\N,"2007-03-08"
+"28267","One Tree Hill",\N,"2012-04-04"
+"28296","White Collar",\N,"2014-01-30"
+"38865","Unter Uns",\N,"2010-10-15"
+"28315","Past Life",\N,"2010-02-11"
+"28318","The Good Wife",\N,"2016-05-08"
+"28353","The Forgotten",\N,"2010-07-03"
+"28423","Spartacus",\N,"2013-04-12"
+"28432","Early Edition",\N,"1996-09-28"
+"28444","Hercules: The Legendary Journeys","82310","1999-11-22"
+"34928","The Pacific",\N,"2010-05-16"
+"28679","Big Love",\N,"2007-08-27"
+"28721","Kojak",\N,"1978-03-18"
+"34904","Ben 10",\N,"2007-08-31"
+"34648","Solty Rei",\N,"2006-03-30"
+"28801","Leverage",\N,"2012-12-18"
+"28917","7th Heaven",\N,"2007-05-13"
+"28993","Captain Planet and the Planeteers",\N,"1990-09-22"
+"29003","L.A. Dragnet",\N,"2004-12-04"
+"29010","Doctor Snuggles",\N,"1980-01-01"
+"29080","The Practice",\N,"2004-05-16"
+"29152","Greek",\N,"2011-02-28"
+"29193","D'Artacan y los tres mosqueperros",\N,\N
+"29377","Lie to Me",\N,"2011-01-31"
+"29423","The Dead Zone",\N,"2007-09-16"
+"29474","Hack",\N,"2004-03-13"
+"29526","サムライチャンプルー Samurai chanpurū",\N,"2005-03-19"
+"30868","Shameless",\N,"2016-04-03"
+"29719","精霊の守り人",\N,"2007-04-14"
+"34021","Rubicon",\N,\N
+"34155","Wiseguy",\N,"1987-09-16"
+"29875","The Unit",\N,"2009-05-03"
+"29898","Lockruf des Goldes",\N,\N
+"33650","Sons of Anarchy",\N,"2014-12-09"
+"29947","The Guild",\N,"2009-08-05"
+"30186","InuYasha",\N,"2010-04-08"
+"30342","Il était une fois...",\N,"2008-01-01"
+"30442","Black Books",\N,"2002-03-22"
+"30481","Quincy, M.E.",\N,"1983-05-11"
+"30685","Aria",\N,"2008-01-07"
+"30730","Der letzte Bulle",\N,"2014-06-02"
+"30733","Danni Lowinski",\N,"2014-09-15"
+"30786","Klimawechsel",\N,\N
+"30823","Dallas",\N,"1978-04-30"
+"30896","エルゴプラクシー",\N,"2006-01-01"
+"30965","The Golden Girls",\N,"1992-05-09"
+"31203","Treme",\N,"2010-04-25"
+"31205","Il Professore",\N,"1989-01-01"
+"31264","Romantically Challenged",\N,"2010-04-12"
+"31379","交響詩篇エウレカセブン Kōkyōshi Hen Eureka Seven",\N,"2005-12-18"
+"31395","Happy Town",\N,"2010-07-01"
+"31400","Freaks and Geeks",\N,"1999-09-25"
+"31474","How To Make It In America",\N,"2010-04-04"
+"31549","Persons Unknown",\N,\N
+"31604","Alias",\N,"2006-05-23"
+"31606","Bored to Death",\N,\N
+"31608","Brothers & Sisters",\N,"2011-05-08"
+"31609","Cougar Town",\N,"2015-03-31"
+"31610","John Adams",\N,"2008-04-20"
+"31612","NYPD Blue",\N,"2005-03-01"
+"31611","Merlin",\N,"2012-12-24"
+"31613","Balko",\N,"2000-05-25"
+"31643","The Tripods",\N,"1985-09-07"
+"31646","It's Always Sunny in Philadelphia",\N,"2010-12-16"
+"31650","Trauma",\N,"2010-05-10"
+"31669","Shark",\N,\N
+"31676","Blood Ties",\N,"2008-01-10"
+"31678","Third Watch – Einsatz am Limit",\N,"1999-09-23"
+"31698","Growing Pains",\N,"1992-04-25"
+"34961","Dexter's Laboratory",\N,"2003-11-20"
+"34951","Lewis",\N,"2015-11-03"
+"31711","攻殻機動隊 STAND ALONE COMPLEX",\N,\N
+"31771","Full House",\N,"1995-05-23"
+"31780","Scooby Doo, Where Are You!","119478",\N
+"31783","Xena: Warrior Princess",\N,"2001-06-18"
+"31828","Roseanne",\N,"1997-05-20"
+"31829","Fawlty Towers",\N,"1979-10-29"
+"31854","The Pacific",\N,\N
+"31855","The Big C",\N,"2010-08-16"
+"31858","The Muppet Show",\N,\N
+"31860","Neues aus Uhlenbusch",\N,"1978-05-28"
+"31861","So little time",\N,\N
+"31917","Miami Vice",\N,"1990-01-25"
+"31923","iCarly",\N,"2012-11-23"
+"31932","Dragonball Z",\N,"1990-02-14"
+"31978","Deadwood",\N,"2006-08-27"
+"32013","Profiler",\N,"2000-07-01"
+"32016","The Thick of It",\N,"2009-10-24"
+"32039","Spin City",\N,"2002-04-30"
+"32040","Flipper",\N,\N
+"32041","Alles außer Sex",\N,"2007-08-19"
+"32045","Mister Ed",\N,\N
+"32046","Family Matters",\N,"1998-07-17"
+"32056","Millennium",\N,"1999-05-21"
+"32064","Becker",\N,"2004-01-28"
+"32065","The Fresh Prince of Bel-Air",\N,"1996-05-20"
+"32072","Rurouni Kenshin",\N,"1996-01-01"
+"32087","Der Bulle von Tölz",\N,"2009-02-04"
+"32088","Rocko's Modern Life",\N,\N
+"32099","Tenkû no Esukafurône",\N,"1996-04-02"
+"32100","らんま½",\N,\N
+"32101","Golden Boy",\N,\N
+"32102","カードキャプターさくら",\N,"1998-04-07"
+"32103","Devil May Cry",\N,"2007-09-06"
+"32104","美少女戦士セーラームーン Bishōjo Senshi Sērā Mūn",\N,"1992-03-07"
+"32105","Charlie Jade",\N,"2005-04-16"
+"32106","FLCL",\N,"2000-04-26"
+"32107","Trigun",\N,\N
+"32108",".hack//sign",\N,\N
+"32109",".hack//Liminality",\N,\N
+"32110",".hack//Legend of the Twilight",\N,\N
+"32111","Excel Saga",\N,\N
+"32112","Slayers",\N,\N
+"32113",".hack//Roots",\N,\N
+"32114","女神候補生 Megami Kōhosei",\N,"2000-01-10"
+"32115","Chobits",\N,\N
+"32116","Love Hina",\N,\N
+"32117","Hand Maid May",\N,"2001-01-01"
+"32118","スケッチブック ～full color'S～",\N,"2007-10-02"
+"32119","風人物語 Fūjin Monogatari",\N,"2004-09-11"
+"32120","のだめカンタービレ",\N,"2010-01-14"
+"32125","宇宙のステルヴィア Uchū no Stellvia",\N,"2003-04-03"
+"32126","銀魂",\N,"2006-04-04"
+"32127","Grounded for Life",\N,"2005-01-28"
+"32128","Till Death (double)",\N,\N
+"32129","Clarissa Explains It All",\N,"1994-10-01"
+"32133","Drawn Together",\N,"2008-03-03"
+"32137","Three’s Company",\N,\N
+"32138","Jesse",\N,"1999-04-01"
+"32139","Grace Under Fire",\N,"1993-09-29"
+"32140","The Flintstones",\N,"1960-10-14"
+"32141","Who Wants to Be a Millionaire?",\N,\N
+"32145","Harry and the Hendersons",\N,\N
+"32150","CatDog",\N,"2000-09-22"
+"32151","Police Squad!",\N,"1982-07-08"
+"32152","Hallo Spencer",\N,\N
+"32154","3rd Rock from the Sun",\N,\N
+"32155","Anthony Bourdain: No Reservations",\N,\N
+"32156","A Cook’s Tour",\N,\N
+"32157","Bizarre Foods with Andrew Zimmern",\N,\N
+"32158","Step by Step",\N,"1996-05-17"
+"32159","Unhappily Ever After",\N,"1999-05-23"
+"32160","Moesha",\N,"1996-01-23"
+"32161","Dinosaurs",\N,"1994-06-22"
+"32162","Rugrats",\N,\N
+"32163","The Real Ghostbusters",\N,"1991-10-05"
+"32164","A Pup Named Scooby-Doo","119478",\N
+"32214","Jim Henson's Muppet Babies",\N,\N
+"32218","ALF: The Animated Series",\N,\N
+"32224","Mildred Pierce",\N,"2012-03-04"
+"32225","Spaced",\N,\N
+"32854","If Tomorrow Comes",\N,\N
+"32232","The Rockford Files","81773","1980-01-10"
+"32233","Cow and Chicken",\N,\N
+"32235","Dragonball",\N,\N
+"32239","Dharma & Greg",\N,"2002-04-30"
+"32242","Ich heirate eine Familie",\N,"1986-12-04"
+"33788","The Walking Dead",\N,\N
+"32263","Alfred J. Kwak",\N,\N
+"32266","Claymore",\N,\N
+"32267","Basilisk - Chronik der Koga-Ninja",\N,\N
+"32269","がくえんゆーとぴあ まなびストレート! Gakuen Yūtopia Manabi Sutorēto!",\N,"2007-01-08"
+"32272","TaleSpin",\N,"1990-09-09"
+"32280","The Animals of Farthing Wood",\N,\N
+"32282","Lassie",\N,\N
+"32285","Catweazle",\N,"1970-03-01"
+"32292","Justified",\N,"2011-05-04"
+"32295","Coupling",\N,"2004-06-14"
+"32315","Wright vs. Wrong",\N,\N
+"32321","Dark Shadows",\N,\N
+"32368","赤毛のアン Akage no Anne",\N,"1979-01-21"
+"32387","Misfits of Science",\N,"1986-02-21"
+"32413","Chiisana Viking Vicke",\N,"1976-04-08"
+"32475","Schmidteinander",\N,\N
+"32491","Undercovers",\N,"2012-01-02"
+"32537","Eruten Rito",\N,"2004-07-25"
+"32642","Little Britain",\N,"2005-12-24"
+"32645","Barbapapa",\N,\N
+"32647","Raumpatrouille Orion",\N,"1966-12-10"
+"32666","The Suite Life on Deck",\N,"2011-05-06"
+"32687","Drop Dead Diva",\N,"2014-06-22"
+"32721","Nikola",\N,"2002-06-07"
+"32726","The Golden Palace",\N,\N
+"32753","Les aventures de Tintin",\N,"1993-09-06"
+"32760","All Grown Up!",\N,\N
+"32765","Fury",\N,\N
+"32767","The Adventures of Black Beauty",\N,\N
+"32768","Disney's Adventures of the Gummi Bears",\N,\N
+"32769","Kim Possible","114325","2002-06-02"
+"32772","The Sarah Jane Adventures",\N,"2007-01-01"
+"32790","In Treatment",\N,"2010-01-01"
+"32794","Huckleberry Finn and His Friends",\N,\N
+"32795","Matroesjka's",\N,"2009-06-03"
+"32796","Mitsubachi Maja no Booken",\N,"1980-09-13"
+"32810","Elisabeth I - The Virgin Queen",\N,\N
+"32812","Sabrina, the Teenage Witch",\N,"2003-04-24"
+"34962","Ed, Edd n Eddy",\N,\N
+"32835","Where My Dogs At?",\N,\N
+"32836","The Angry Beavers",\N,\N
+"35335","Simon & Simon",\N,"1986-04-10"
+"32865","Jenseits der Morgenröte",\N,\N
+"32873","Captain James Cook",\N,\N
+"32880","Meister Eder und sein Pumuckl",\N,\N
+"32881","Anna and the King",\N,\N
+"32886","Darkwing Duck",\N,"1991-09-08"
+"32892","The Professionals",\N,"1980-12-27"
+"32894","Switch Reloaded",\N,"2007-03-05"
+"43700","Good Luck Charlie",\N,"2014-01-19"
+"32902","Max Headroom",\N,\N
+"32906","Northern Exposure",\N,"1992-05-18"
+"32918","ちっちゃな雪使いシュガー Chitchana Yukitsukai Shugā",\N,"2001-10-02"
+"32922","The Lone Gunmen",\N,"2001-06-01"
+"32924","Land Of The Lost",\N,\N
+"32925","Valley of the Dinosaurs",\N,\N
+"32927","Stripperella",\N,\N
+"32929","Magnum, p.i.",\N,"1988-05-01"
+"32930","New York Undercover",\N,\N
+"32933","Siebenstein",\N,\N
+"32934","The Little Vampire",\N,"1987-03-22"
+"32935","Alps no Shōjo Heidi",\N,"1974-01-01"
+"32936","Nirusu no fushigi na tabi",\N,"1980-01-09"
+"32945","Draghetto Grisù",\N,\N
+"32946","The Bugs Bunny Show",\N,"1962-08-07"
+"32947","Blue Mountain State",\N,"2010-03-30"
+"32948","The Ren & Stimpy Show",\N,\N
+"32956","Naruto",\N,"2006-11-09"
+"32958","Speedy Gonzales",\N,\N
+"32959","Chicago Hope",\N,"1995-05-22"
+"32963","Studio 60 on the Sunset Strip",\N,\N
+"32967","The Waltons",\N,"1981-06-04"
+"32968","Bonanza",\N,"1973-01-16"
+"32969","Highway to Heaven",\N,"1989-08-04"
+"32970","Little House on the Prairie",\N,"1983-03-21"
+"32979","Lenßen & Partner",\N,"2009-11-13"
+"32982","Dog - the Bounty Hunter",\N,\N
+"32984","Aaahh!!! Real Monsters",\N,\N
+"34905","Camp Lazlo",\N,"2008-03-27"
+"32988","The Event",\N,"2011-05-23"
+"32989","In Plain Sight",\N,"2012-04-27"
+"32993","Traveler",\N,\N
+"32994","21 Jump Street","102218","1991-04-27"
+"33001","Perry Mason",\N,"1966-05-22"
+"33015","Roswell",\N,\N
+"33020","Atakku no. 1",\N,\N
+"33028","Super Mario Bros. Super Show!",\N,\N
+"33029","Li-La-Launebär",\N,\N
+"33035","Captain Future",\N,\N
+"33036","Captain Power and the Soldiers of the Future",\N,\N
+"33038","Die Sendung mit der Maus",\N,"2010-10-10"
+"33061","K 11 - Kommissare im Einsatz",\N,"2010-10-01"
+"33062","The Care Bears",\N,\N
+"33063","The Care Bears Family",\N,\N
+"33064","Captain Tsubasa",\N,\N
+"33065","Pinky and the Brain",\N,\N
+"33066","The Ant and the Aardvark",\N,\N
+"33098","The Little Mermaid",\N,\N
+"33099","Everwood",\N,"2004-05-10"
+"33101","Kalkofes Mattscheibe",\N,\N
+"33106","Providence",\N,\N
+"33110","Absolutely Fabulous",\N,"2005-03-11"
+"33112","Boy Meets World",\N,"1995-05-19"
+"33115","General Hospital",\N,"2003-04-01"
+"33116","Unfabulous",\N,"2007-12-16"
+"33117","Der kleine Vampir – Neue Abenteuer",\N,\N
+"33118","Furandāsu no inu",\N,\N
+"33119","Die Abschlussklasse",\N,\N
+"33123","Aqua Teen Hunger Force",\N,\N
+"33128","The Bold and the Beautiful",\N,"2010-09-30"
+"33129","Days of our Lives",\N,\N
+"33130","Araiguma Rasukaru",\N,\N
+"33131","Dennis the Menace",\N,\N
+"33132","Tao Tao ehonkan – Sekai dōbutsu-banashi",\N,\N
+"33133","Die Wicherts von nebenan",\N,\N
+"33134","Inspecteur Gadget",\N,\N
+"33136","とらドラ！",\N,"2008-10-02"
+"33148","I Dream of Jeannie",\N,"1970-05-26"
+"33149","Ein Fall für TKKG",\N,\N
+"33150","Alvin and the Chipmunks",\N,\N
+"33151","Count Duckula",\N,\N
+"33152","Garfield and Friends",\N,\N
+"33188","Mork & Mindy",\N,"1978-09-14"
+"33189","Monaco Franze - Der ewige Stenz",\N,"1983-05-05"
+"33190","Hong Kong Phooey",\N,\N
+"33192","The Lion King's Timon & Pumbaa",\N,\N
+"33193","Chip 'n Dale Rescue Rangers",\N,\N
+"33194","Don-Don Domel to Ron",\N,\N
+"33195","Droopy: Master Detective",\N,\N
+"33197","The Penguins of Madagascar",\N,"2011-05-21"
+"33200","Whoopi",\N,\N
+"33205","Ellen",\N,"1998-07-22"
+"33214","Suddenly Susan",\N,\N
+"33215","Ein Bayer auf Rügen",\N,"1997-04-23"
+"33216","Baywatch Nights",\N,\N
+"33218","Blame! Ver.0.11: Salvaged disc by Cibo",\N,\N
+"33222","Sturm der Liebe",\N,"2010-11-02"
+"33224","Walker, Texas Ranger",\N,"2001-05-19"
+"33225","Popetown",\N,\N
+"33239","Happy Days",\N,\N
+"33240","Hart to Hart","107712","1984-05-22"
+"33241","Heathcliff",\N,\N
+"33243","Heathcliff & the Catillac Cats",\N,\N
+"33255","Zoey 101",\N,"2008-05-02"
+"33256","Daktari",\N,"1969-01-15"
+"33257","Die Camper",\N,"2006-04-07"
+"33259","Mr. Sunshine",\N,\N
+"33260","Riptide",\N,"1986-04-18"
+"33268","JAG",\N,"2005-04-29"
+"33270","Alf Tales",\N,\N
+"33300","Snorks",\N,\N
+"33308","That's My Bush!",\N,\N
+"33309","Extreme Ghostbusters",\N,\N
+"33310","Due South",\N,\N
+"33311","Peanuts","113808",\N
+"33313","The Charlie Brown and Snoopy Show","113808",\N
+"33314","Better with You",\N,"2010-10-06"
+"33316","My Generation",\N,\N
+"33317","Off the Map",\N,\N
+"33318","No Ordinary Family",\N,"2011-04-05"
+"33319","Body of Proof",\N,"2013-05-28"
+"33320","Detroit 1-8-7",\N,"2010-12-14"
+"33321","The Whole Truth",\N,"2010-09-22"
+"33323","Spellbinder",\N,\N
+"33324","The Tribe",\N,\N
+"33325","Tanoshi Moomin Ikka",\N,\N
+"33327","Um Himmels Willen",\N,"2016-05-03"
+"33328","Mr. Bean","99300","1995-11-15"
+"33329","Mr. Bean – The Animated Series","99300","2002-01-05"
+"33330","涼宮ハルヒの憂鬱 Suzumiya Haruhi no Yūutsu",\N,"2006-04-09"
+"33333","スクールランブル Sukūru Ramburu",\N,"2004-10-05"
+"33353","Running Wilde",\N,\N
+"33354","Ride-Along",\N,\N
+"33355","Raising Hope",\N,"2012-04-17"
+"33356","Traffic Light",\N,\N
+"33358","Lone Star",\N,\N
+"33360","The Good Guys",\N,"2010-05-19"
+"33361","Bob's Burgers",\N,"2019-05-12"
+"33363","He-Man and the Masters of the Universe",\N,"1983-09-29"
+"33374","Invader Zim",\N,\N
+"33375","君に届け",\N,"2009-10-06"
+"33448","New Kids",\N,"2010-02-26"
+"33450","Hawaii Five-0",\N,"2019-05-17"
+"33451","Blue Bloods",\N,"2019-05-10"
+"33452","$#*! My Dad Says",\N,"2011-02-17"
+"33453","Mike & Molly",\N,"2016-05-16"
+"33454","The Defenders",\N,"2011-03-11"
+"33455","Chase",\N,"2011-11-26"
+"33456","The Cape",\N,"2011-01-09"
+"33457","Outlaw",\N,\N
+"33458","Harry's Law",\N,"2012-05-27"
+"33459","Love Bites",\N,\N
+"33462","Emergency!",\N,"1976-03-06"
+"33472","バッカーノ！",\N,\N
+"33475","Robot Chicken",\N,"2011-03-13"
+"33481","Life On Mars",\N,"2007-04-10"
+"33482","ぼくらの",\N,\N
+"33483","Noein: Mou Hitori no Kimi e",\N,\N
+"33484","Hunter X Hunter",\N,\N
+"33486","Skins",\N,"2011-03-17"
+"33526","Get Smart",\N,\N
+"33540","The Popples",\N,\N
+"33541","BraveStarr",\N,\N
+"33545","90210",\N,"2013-05-13"
+"33548","The Hitchhiker’s Guide to the Galaxy",\N,"1981-02-09"
+"33553","はじめの一歩",\N,\N
+"33572","Wolffs Revier",\N,"2005-06-22"
+"33598","Family Ties",\N,\N
+"33599","Saber Rider and the Star Sheriffs",\N,"1988-09-02"
+"33600","Forsthaus Falkenau",\N,\N
+"33604","The Inside",\N,\N
+"33606","John Doe",\N,\N
+"33618","Planetes",\N,"2003-10-04"
+"33620","The Mary Tyler Moore Show",\N,"1970-09-19"
+"33622","Out of this World",\N,\N
+"33627","桜蘭高校ホスト部 Ōran Kōkō Host Club",\N,"2006-04-04"
+"33661","Arme Millionäre",\N,"2006-11-03"
+"34199","Tin Man",\N,"2007-12-04"
+"33770","La Piovra",\N,\N
+"33903","The Gates",\N,\N
+"33782","イヴの時間 Eve no Jikan",\N,"2008-03-27"
+"33785","灰羽連盟",\N,"2002-10-09"
+"33811","Die Fliegenden Ärzte",\N,\N
+"33813","Mad About You",\N,"1999-05-24"
+"33815","Latibær",\N,\N
+"33873","TV Total Autoball WM 2010",\N,\N
+"33882","Gambare! Kikkāzu",\N,\N
+"33892","鋼の錬金術師 - Hagane no Renkinjutsushi",\N,\N
+"33904","Royal Pains",\N,"2016-07-06"
+"33905","Kureyon Shin-chan",\N,\N
+"33906","Das Haus Anubis",\N,\N
+"50979","The LXD: The Legion of Extraordinary Dancers",\N,"2010-07-07"
+"35014","Ein Fall für zwei",\N,"2019-12-17"
+"33978","Automan",\N,\N
+"33980","Airwolf",\N,"1987-08-07"
+"34023","Covert Affairs",\N,"2010-08-03"
+"34024","The Bridge",\N,\N
+"34027","Rookie Blue",\N,"2013-09-12"
+"34028","The Real L Word",\N,\N
+"34029","Scoundrels",\N,\N
+"34030","The Secret Life Of The American Teenager",\N,"2013-06-03"
+"34035","Rescue Me",\N,"2011-09-06"
+"34110","Schloss Einstein",\N,\N
+"34114","She-Ra: Princess of Power",\N,\N
+"34144","The Equalizer","115842",\N
+"34145","Perfect Couples",\N,"2011-06-24"
+"34164","Lilo & Stitch: The Series","96547",\N
+"34165","T.J. Hooker",\N,"1986-05-28"
+"34174","The Venture Bros.",\N,"2010-11-21"
+"34191","Sealab 2021",\N,\N
+"34189","Metalocalypse",\N,"2010-10-24"
+"34190","Harvey Birdman - Attorney at Law",\N,\N
+"34207","Pioneer One",\N,"2011-12-13"
+"34217","Wallander",\N,"2013-07-30"
+"34308","Anke",\N,"2001-07-23"
+"34316","Cybill",\N,\N
+"34317","Man vs. Wild",\N,\N
+"34318","Axel!",\N,"2004-06-12"
+"34319","In aller Freundschaft","116880","2019-12-10"
+"34320","Medicopter 117 - Jedes Leben zählt",\N,"2007-06-28"
+"34321","Ramsay’s Kitchen Nightmares",\N,\N
+"34322","Kitchen Nightmares",\N,\N
+"34324","Hell's Kitchen",\N,\N
+"34328","Chappelle's Show",\N,"2006-07-23"
+"34334","Undeclared",\N,\N
+"34803","Die Snobs",\N,\N
+"34386","Der Doc - Schönheit ist machbar",\N,"2001-03-23"
+"34390","Charlie's Angels","90977","1981-06-24"
+"34397","Elton vs. Simon",\N,"2010-09-04"
+"34418","Germany's Next Topmodel",\N,"2010-06-10"
+"34429","Die Ludolfs – 4 Brüder auf’m Schrottplatz",\N,\N
+"34431","I Love Money",\N,"2009-05-04"
+"34434","Frauentausch",\N,\N
+"34435","Der kleine Mann",\N,"2009-05-12"
+"34438","Ladykracher",\N,"2011-05-06"
+"34447","The Crocodile Hunter",\N,\N
+"34450","Ladyland",\N,"2007-06-29"
+"34455","LiebesLeben",\N,"2005-12-27"
+"34460","Lucy - Daughter of the Devil",\N,"2007-11-11"
+"34470","'Til Death",\N,"2010-06-20"
+"34545","Planet of the Apes",\N,\N
+"34546","The Love Boat",\N,"1977-11-19"
+"34704","Lena - Liebe meines Lebens",\N,\N
+"34611","Air America",\N,\N
+"34612","Largo Winch",\N,\N
+"34613","Relic Hunter",\N,"2002-05-20"
+"34617","Masters of Horror",\N,"2007-02-02"
+"34621","Mein neuer Freund",\N,"2005-04-11"
+"34624","Moral Orel",\N,"2008-12-18"
+"34628","Najika dengeki sakusen",\N,"2001-01-01"
+"34632","Beyond Belief: Fact or Fiction?",\N,"2002-12-31"
+"34633","Wizards of Waverly Place",\N,"2012-01-06"
+"34634","New York Goes to Hollywood",\N,"2008-09-15"
+"34636","That's So Raven",\N,\N
+"34637","NightWash",\N,"2009-10-03"
+"34641","NightWash Special",\N,"2010-01-01"
+"34643","Nitro Circus",\N,"2009-10-22"
+"34646","Parasaito Dōruzu",\N,"2003-07-24"
+"34649","Punk'd",\N,"2007-06-01"
+"34775","Lodoss to senki",\N,"1991-11-20"
+"34655","Slimer! And the Real Ghostbusters",\N,"1989-04-08"
+"34656","Teen Cribs",\N,"2010-07-29"
+"34657","Speed Grapher",\N,"2005-09-30"
+"34662","Scarred",\N,"2007-07-24"
+"34663","Reno 911!",\N,"2009-07-08"
+"34664","Trinity Blood",\N,"2005-10-27"
+"34666","Wolf's Rain",\N,"2004-10-16"
+"34667","Voltron: Defender of the Universe",\N,"1985-11-18"
+"34668","Saber Marionette R",\N,"2004-06-22"
+"34670","Total Normal",\N,"1991-07-04"
+"34671","The Brak Show",\N,"2003-12-31"
+"34674","Stroker & Hoop",\N,"2005-12-25"
+"34716","Taxi",\N,\N
+"34679","Lodoss to Senki: Eiyuu kishi den",\N,"1998-12-31"
+"34680","Chrno Crusade",\N,"2004-06-10"
+"34691","Braceface",\N,\N
+"34712","Ā Megami-sama",\N,\N
+"34715","Tarzan, Lord of the Jungle",\N,\N
+"34718","Teenage Mutant Ninja Turtles",\N,\N
+"34720","Big Wolf on Campus",\N,\N
+"34753","Bewitched",\N,"1972-03-25"
+"34776","Lodoss to Senki: Eiyuu kishi den",\N,\N
+"34785","Worst Witch",\N,\N
+"34806","Der große Bellheim",\N,"1993-01-06"
+"34820","Steven Spielberg Presents Taken",\N,\N
+"34828","H2O: Just Add Water",\N,\N
+"34917","Lucky Luke",\N,\N
+"34867","Spooks","114396","2004-12-13"
+"34908","Extreme Dinosaurs",\N,\N
+"34909","Ottifanten",\N,\N
+"34910","The Powerpuff Girls",\N,\N
+"34911","出ましたっ!パワパフガールズZ",\N,\N
+"34916","Wire in the Blood",\N,"2005-03-14"
+"35018","CHiPs",\N,"1983-05-01"
+"35054","Stacked",\N,\N
+"35057","地球少女アルジュナ Chikyû shôjo Arjuna",\N,"2001-01-09"
+"35067","ガンツ Gantz",\N,"2004-04-12"
+"35070","Kyle XY",\N,"2009-03-16"
+"35131","Remington Steele",\N,"1986-05-10"
+"35132","M.A.S.K.",\N,\N
+"35134","Father Dowling Mysteries",\N,\N
+"35135","The Jetsons",\N,\N
+"35137","Johnny Bravo",\N,\N
+"35138","Samurai Jack",\N,\N
+"35139","Totally Spies",\N,\N
+"35142","The Sylvester & Tweety Mysteries",\N,\N
+"35145","Beetlejuice",\N,\N
+"35146","Freakazoid!",\N,\N
+"35157","新機動戦記ガンダム Ｗ, Shin Kidō Senki Gandamu Uingu",\N,"1995-01-01"
+"35159","フルメタル・パニック!, Full Metal Panic!",\N,"2002-01-08"
+"35162","フルメタル・パニック? Fumoffu",\N,"2003-08-25"
+"35321","Sanctuary",\N,"2011-12-30"
+"35267","Battlestar Galactica",\N,"1979-04-29"
+"35303","Das Traumschiff",\N,"2019-04-21"
+"35304","Haven",\N,"2014-12-05"
+"35306","Moonlighting",\N,"1989-05-14"
+"35349","Luck",\N,"2012-10-09"
+"35436","Archangels",\N,\N
+"35479","Twilight Zone",\N,"2003-04-01"
+"35482","Identity",\N,"2010-07-12"
+"35493","The Glades",\N,"2013-08-19"
+"35499","Das Model und der Freak",\N,\N
+"35519","Rizzoli & Isles",\N,"2016-09-05"
+"35638","The Outer Limits",\N,"2002-01-18"
+"35749","Napoléon",\N,"2002-10-07"
+"35849","Standoff",\N,"2007-07-20"
+"35887","Blackadder",\N,"1989-11-02"
+"35888","Not the Nine O'Clock News",\N,\N
+"35927","Monster",\N,\N
+"35967","Pride and Prejudice",\N,"1995-10-29"
+"36018","Forever Knight",\N,"1996-05-17"
+"36026","Sherlock",\N,"2017-01-15"
+"36117","Travel Sick",\N,"2001-01-01"
+"36131","Fish 'N' Fun - Die Angelshow",\N,\N
+"85341","Wallander",\N,"2015-12-27"
+"36235","Küstenwache",\N,"2013-02-13"
+"36264","Anna und die Liebe",\N,"2010-06-28"
+"36286","Eine wie keine",\N,"2010-09-03"
+"36311","Solitary - Besieg dich selbst!",\N,"2009-12-12"
+"36323","Big Time Rush",\N,"2013-07-25"
+"36341","Rote Rosen",\N,"2010-10-04"
+"36346","Ikki tôsen",\N,\N
+"36347","Der Dicke",\N,"2012-08-14"
+"36357","Der Bergdoktor",\N,"2019-02-20"
+"36365","SOKO Köln","124189","2019-12-17"
+"36374","Hanna - Folge deinem Herzen",\N,"2010-09-01"
+"36380","SOKO Rhein-Main","124189","2007-12-11"
+"36385","18 Wheels of Justice",\N,"2001-06-06"
+"36394","Big Brother",\N,"2010-01-11"
+"36399","Rennschwein Rudi Rüssel",\N,"2010-07-03"
+"36407","Tierärztin Dr. Mertens",\N,"2019-12-10"
+"36413","Elefant Boy",\N,"1974-12-12"
+"36420","Dahoam is Dahoam",\N,"2010-09-02"
+"36425","Notruf Hafenkante",\N,"2019-12-12"
+"36431","Der ganz normale Wahnsinn",\N,"1979-06-01"
+"36439","Mistresses",\N,"2008-01-08"
+"36442","Familie Dr. Kleist",\N,"2019-12-10"
+"36447","Escape Of The Artful Dodger",\N,"2001-12-10"
+"36487","Die Fallers - Eine Schwarzwaldfamilie",\N,"2010-10-03"
+"36490","Neues übern Gartenzaun",\N,"1985-10-18"
+"36495","Sinnlos im Weltraum",\N,\N
+"36566","Der Leihopa",\N,"1989-12-12"
+"36574","Königlich Bayerisches Amtsgericht",\N,"1972-01-23"
+"36580","Das Geheimnis der Sagala",\N,"1997-12-12"
+"36700","Lotta in Love",\N,"2007-08-12"
+"69509","Einzug ins Paradies",\N,\N
+"36890","Tom und Jerry",\N,"1967-01-01"
+"36810","Hinter Gittern",\N,"2007-02-12"
+"36829","Klinik am Alex",\N,"2012-09-30"
+"36837","Edel & Starck",\N,"2005-04-18"
+"36845","Lasko - Die Faust Gottes",\N,"2009-07-30"
+"36851","Die Wochenshow",\N,"2002-12-12"
+"36864","Die Cleveren",\N,"2007-04-05"
+"36870","Die Gerichtsmedizinerin",\N,"2008-12-11"
+"36877","Schmidt und Pocher",\N,"2007-10-25"
+"36881","Sternenfänger",\N,"2002-09-03"
+"36884","112 - Sie retten Leben",\N,"2009-02-05"
+"36897","Scarecrow and Mrs. King",\N,"1987-05-28"
+"36962","Mit Herz und Handschellen",\N,"2005-03-21"
+"36998","Wildes Russland",\N,"2008-12-24"
+"37008","Meteor - Path To Destruction",\N,"2009-02-26"
+"37052","Planet Earth",\N,"2006-12-10"
+"37079","Toto & Harry",\N,\N
+"37151","Mein Revier - Ordnungshüter räumen auf",\N,\N
+"37173","Der Kriminalist",\N,"2019-11-12"
+"37297","Charlotte Roche unter ...",\N,"2008-10-01"
+"37429","The Beast",\N,\N
+"37569","Booker",\N,"1990-03-17"
+"37574","Bullyparade",\N,"2002-03-06"
+"37581","C.O.P.S",\N,"1989-12-12"
+"37587","Caillou",\N,"2013-03-01"
+"37591","California Clan",\N,"1984-11-03"
+"37606","Der rosarote Panther",\N,\N
+"37610","Casper",\N,"2001-03-17"
+"37618","Das Erbe der Guldenburgs",\N,"1990-03-17"
+"37626","Das feuerrote Spielmobil",\N,"1981-03-05"
+"37633","Die rote Zora und ihre Bande",\N,"1979-05-22"
+"37693","North and South",\N,"1994-12-12"
+"37700","Pensacola: Wings of Gold",\N,"2000-09-16"
+"37710","David, der Kabauter",\N,"1986-02-12"
+"37719","Locke & Key",\N,\N
+"37723","The Six Million Dollar Man",\N,"1977-05-15"
+"37730","Fantasy Island",\N,"1984-11-03"
+"37908","Môsô dairinin",\N,"2004-05-17"
+"38004","The Young Indiana Jones Chronicles","84",\N
+"38033","Victorious",\N,\N
+"38115","Paradox",\N,"2009-12-22"
+"38191","Hand aufs Herz",\N,"2010-10-04"
+"38285","The Kingdom",\N,"1997-11-01"
+"38313","Navarro",\N,"2006-03-26"
+"38343","Deadliest Catch",\N,"2010-07-27"
+"38528","Top wo Nerae!",\N,\N
+"41505","Bara roligt i Bullerbyn",\N,"1962-09-08"
+"38636","Caraibi",\N,"1999-01-03"
+"38659","Die Nervensäge",\N,"1985-09-12"
+"38697","Modern Family",\N,"2019-11-20"
+"38753","Diagnosis Murder",\N,"2001-05-11"
+"38849","The Dark Tower",\N,\N
+"38871","Gary Unmarried",\N,"2010-03-17"
+"38878","Bibi Blocksberg",\N,"2019-10-26"
+"38887","SOKO Donau","124189","2019-04-16"
+"38924","Soko Kitzbühel","124189","2019-07-30"
+"38931","Sesamstraße",\N,"2010-11-08"
+"38936","In einem Land vor unserer Zeit","82749","2008-03-09"
+"38940","Die Sendung mit dem Elefanten",\N,"2010-10-08"
+"38951","Löwenzahn",\N,"2000-05-21"
+"38953","Untitled Crime-Thriller-Series",\N,\N
+"38959","Almost Perfect",\N,"1996-04-20"
+"38964","Ein Fall für Nadja",\N,"2007-11-05"
+"38968","Wege zum Glück",\N,"2009-10-18"
+"38980","Traders",\N,"1999-06-19"
+"38987","Wedding Peach",\N,"1996-04-20"
+"39024","taff",\N,\N
+"43087","Stubbe - Von Fall zu Fall",\N,"2018-12-22"
+"39122","True Lies",\N,\N
+"39124","The Inbetweeners",\N,"2010-10-18"
+"39131","Game Of Thrones",\N,"2019-05-19"
+"39135","How Not to Live Your Life",\N,"2009-10-20"
+"39160","Benjamin Blümchen",\N,"2003-01-27"
+"39181","Bleak House",\N,"2005-12-16"
+"39195","Der Alte",\N,"2019-05-28"
+"39242","Die Rettungsflieger",\N,"2007-07-11"
+"39257","Die Rosenheim-Cops",\N,"2019-12-17"
+"39271","Ein Haus voller Töchter",\N,"2010-10-07"
+"39275","Hallo, Onkel Doc!",\N,"2000-02-03"
+"39284","Highlander","8050","1998-05-17"
+"39293","Huff",\N,"2006-06-25"
+"39300","King of the Hill",\N,"2010-05-06"
+"39316","Naruto Shippuden","16091","2010-10-07"
+"39368","Niedrig und Kuhnt - Kommissare ermitteln",\N,"2010-09-14"
+"39383","Unser Lehrer Doktor Specht",\N,"1999-03-30"
+"39393","Yu-Gi-Oh! 5D's",\N,"2010-09-29"
+"39513","Alcatraz",\N,\N
+"39655","The Jeff Corwin Experience",\N,\N
+"41186","Mega-Fabriken",\N,\N
+"39796","GoodFellas",\N,\N
+"41160","Sunrise Earth",\N,\N
+"41166","Lockdown",\N,\N
+"40012","Lost Girl",\N,"2015-10-25"
+"40015","Facing Kate",\N,\N
+"40018","Hot in Cleveland",\N,"2015-06-03"
+"40022","Packed to the Rafters",\N,"2010-11-16"
+"40028","Episodes",\N,"2011-01-23"
+"40033","Hellcats",\N,"2010-09-08"
+"40279","Men of a Certain Age",\N,"2010-02-23"
+"40330","Fist of the North Star",\N,"1987-03-05"
+"98136","Tempel",\N,"2016-12-13"
+"40397","Die Küchenschlacht",\N,"2010-09-29"
+"40447","Stadt, Land, Mord!",\N,"2007-05-07"
+"40569","Variable Geo",\N,"1996-11-29"
+"40576","Comedy Central Roast",\N,"2009-03-16"
+"40587","009-1",\N,\N
+"40589","Wonder Woman",\N,\N
+"41056","Big City Life",\N,\N
+"41058","The Human Body",\N,\N
+"41061","The Sleepover Club",\N,\N
+"41062","Zeke and Luther",\N,"2011-11-28"
+"41068","Fix und Foxi",\N,\N
+"41133","Jozhik",\N,\N
+"41070","Topfrocker - Lasse tischt auf",\N,\N
+"41074","Fosters Haus für Fantasiefreunde",\N,\N
+"41081","Future Weapons",\N,\N
+"41086","Geheimakte 2. Weltkrieg",\N,\N
+"41088","Gullivers Reisen",\N,\N
+"41090","Herausforderung Zukunft",\N,\N
+"41093","Higglytown Heroes",\N,\N
+"41097","Hugo, das Dschungeltier - Die Serie",\N,\N
+"41101","Ben 10: Alien Force",\N,\N
+"41105","Around The World In 80 Days",\N,"1989-04-18"
+"41107","Starsky and Hutch",\N,"1979-05-15"
+"41118","Jersey Shore",\N,\N
+"41125","The Wonder Pets",\N,\N
+"41128","Jimmy Neutron",\N,\N
+"41136","The Secret Saturdays",\N,\N
+"41139","Kings of Construction",\N,\N
+"41140","Weaponology",\N,\N
+"41145","Landmaus und Stadtmaus auf Reisen",\N,\N
+"41148","Life of Ryan",\N,\N
+"41149","Special Agent Oso",\N,\N
+"41153","Was ist was TV",\N,\N
+"41163","Unser Star für Oslo",\N,\N
+"41164","In The Bush with Malcolm Douglas",\N,\N
+"41173","The Planets",\N,\N
+"41175","Tom und das Erdbeermarmeladebrot mit Honig",\N,\N
+"41176","Mega-Bauwerke",\N,\N
+"41179","Lost Ships",\N,\N
+"41207","Situation Critical",\N,\N
+"41189","New York goes to Work",\N,\N
+"41191","Stanley",\N,\N
+"41195","Mein Leben als Hund",\N,\N
+"41197","Staraoke",\N,\N
+"41199","My Gym Partner's a Monkey",\N,\N
+"41204","Sonny with a Chance",\N,\N
+"41209","Seton Dôbutsuki Risu no bannâ",\N,\N
+"41211","My Spy Family",\N,\N
+"41215","Pocket Dragon Adventures",\N,\N
+"41216","Human Senses",\N,\N
+"41247","Brandy & Mr. Whiskers",\N,\N
+"41251","Chowder",\N,\N
+"41255","Final 24 - Die letzten 24 Stunden von ...",\N,\N
+"41258","The Enid Blyton Secret Series",\N,\N
+"41260","Cocco Bill",\N,\N
+"41263","Plonsters",\N,\N
+"41265","Cory in the House",\N,\N
+"41267","World of Quest",\N,\N
+"41271","Piggeldy und Frederick",\N,\N
+"41272","Drake & Josh",\N,"2007-09-16"
+"41279","Phineas and Ferb",\N,\N
+"41282","Dora the Explorer",\N,\N
+"41288","Party of Five",\N,"1998-05-13"
+"41292","Das Jahrhundert des Fluges",\N,\N
+"41296","The Replacements",\N,\N
+"41299","Papyrus",\N,"1998-04-08"
+"41304","Papa Löwe",\N,\N
+"41307","JONAS",\N,\N
+"41316","Die Pfefferkörner",\N,"2000-01-12"
+"41326","The Grim Adventures of Billy & Mandy",\N,\N
+"41335","Extreme Engineering",\N,\N
+"41342","Sorry, I've Got No Head",\N,\N
+"41346","Codename: Kids Next Door",\N,\N
+"41347","The Garfield Show",\N,\N
+"41355","Dragon Hunters",\N,\N
+"41361","Les enquêtes de Prudence Petitpas",\N,\N
+"41362","Die Knickerbocker-Bande",\N,\N
+"41367","The little knight Fridolin",\N,\N
+"41401","Napoleon Dynamite",\N,\N
+"41433","Rookies",\N,\N
+"41527","Alla vi barn i Bullerbyn",\N,"1989-03-10"
+"41556","Der Kommissar",\N,"1970-06-05"
+"41612","Hulk-Serie","93349",\N
+"41672","レイヴ, Reivu",\N,\N
+"41703","Goosebumps",\N,"1995-10-27"
+"41816","学園黙示録 Highschool of the Dead  / Gakuen Mokushiroku Highschool of the Dead",\N,"2010-07-05"
+"41868","Derrick",\N,\N
+"41911","Bleach～ブリーチ",\N,"2004-10-05"
+"41928","Batman Beyond",\N,"1999-01-10"
+"42096","Justice League",\N,"2001-11-17"
+"42103","Season 1",\N,\N
+"42118","Earth 2",\N,"1995-06-04"
+"42120","ノワール",\N,"2001-04-06"
+"42250","X-Men","748","1992-10-31"
+"43405","Kuroshitsuji",\N,"2009-03-26"
+"42253","Men in Black: The Series","59435","1997-10-11"
+"42275","X-Men: Evolution","748","2000-11-04"
+"42351","Air Gear",\N,\N
+"43359","Daniel Druskat",\N,\N
+"42474","Pride & Prejudice",\N,\N
+"42479","Entweder Broder - Die Deutschland-Safari",\N,\N
+"43092","Die Bergretter",\N,"2019-12-19"
+"42534","Cagney & Lacey",\N,"1988-05-16"
+"42581","Life in the Undergrowth",\N,"2005-12-21"
+"43097","Der Landarzt",\N,"2011-01-07"
+"42586","The Blue Planet",\N,\N
+"42681","Die Schatzinsel",\N,"1967-01-01"
+"42699","The Adventures of Pete & Pete",\N,"1995-10-01"
+"61669","The Critic",\N,"1994-01-26"
+"42779","Worst-Case Scenario",\N,\N
+"42786","Teen Wolf",\N,"2014-03-24"
+"42792","Bernd das Brot",\N,\N
+"42865","Durchreise",\N,\N
+"42900","Better Off Ted",\N,\N
+"43361","American Dragon: Jake Long",\N,"2007-09-01"
+"43005","Elvis",\N,"1990-05-19"
+"43068","Kreuzfahrt ins Glück",\N,"2019-01-01"
+"43081","Mord mit Aussicht",\N,"2014-12-16"
+"43119","SOKO Leipzig","124189","2019-12-13"
+"43133","Kommissar Stolberg",\N,"2010-12-03"
+"43143","Siska",\N,"2008-07-04"
+"43190","Afro Samurai",\N,"2007-02-01"
+"43202","Murder One",\N,\N
+"43286","8 Simple Rules... for Dating My Teenage Daughter",\N,"2005-04-15"
+"43338","Notes from the Underbelly",\N,\N
+"43352","Eastbound & Down",\N,"2010-11-07"
+"43367","Bakugan Batoru Burōrāzu",\N,"2009-10-04"
+"43382","16 and Pregnant",\N,"2010-11-23"
+"43388","Back at the Barnyard",\N,"2010-09-11"
+"43394","Adventurers: Masters of Time",\N,\N
+"43397","Antje",\N,\N
+"43400","Nomads",\N,\N
+"61405","Evolve",\N,"2008-10-15"
+"43552","Cashmere Mafia",\N,"2008-02-20"
+"43579","Lexx",\N,"1997-04-18"
+"43640","Kenny vs. Spenny",\N,\N
+"43647","Altair in Starland",\N,\N
+"43649","Hero: 108",\N,\N
+"43651","Stunt Junkies",\N,\N
+"43654","Time Warp",\N,\N
+"43657","Mission Odyssey",\N,\N
+"43660","Shadow Of The Elves",\N,\N
+"43662","The Adventures of Swiss Family Robinson",\N,\N
+"43665","The Proud Family",\N,\N
+"43670","JoJo's Circus",\N,\N
+"43674","The Enid Blyton Adventure Series",\N,\N
+"43676","Fanboy & Chum Chum",\N,\N
+"43678","The Troop",\N,\N
+"43681","A Child Against All Odds",\N,\N
+"43684","Tales from the Cryptkeeper",\N,"1993-09-18"
+"43687","Tales from the Crypt",\N,"1989-06-10"
+"43693","Life in the Freezer",\N,\N
+"43697","How To Find A Husband",\N,\N
+"43729","The Dukes of Hazzard",\N,"1985-02-08"
+"43783","Terriers",\N,"2010-12-01"
+"43853","Twilight Zone",\N,"1959-10-30"
+"43876","Generation Kill",\N,"2008-08-24"
+"43878","Twilight Zone",\N,"1985-09-27"
+"43980","The Chicago Code",\N,"2011-05-23"
+"43996","Borgia",\N,"2013-04-22"
+"44000","The Borgias",\N,"2013-06-16"
+"44029","Il deserto di fuoco",\N,\N
+"44105","Hell on Wheels",\N,"2014-11-22"
+"44103","Frank Riva",\N,"2004-11-15"
+"44125","Zoombie",\N,"1982-09-14"
+"44128","Ирония судьбы, или С лёгким паром!",\N,"1975-12-31"
+"44274","Cidade dos Homens",\N,"2002-01-01"
+"44308","Sue Thomas: F.B.Eye",\N,"2005-05-22"
+"44336","Worst Week",\N,"2009-06-06"
+"44491","In-Laws",\N,"2003-01-21"
+"44575","I Was Bitten",\N,\N
+"44577","Bauer sucht Frau",\N,\N
+"44582","Ellen Again",\N,"2002-01-11"
+"44650","Langt Fra Las Vegas",\N,"2003-11-25"
+"44659","Alles in Ordnung",\N,\N
+"44696","touching evil",\N,\N
+"44708","Ein Mann will nach oben",\N,\N
+"44815","Das Glück dieser Erde",\N,\N
+"44853","L.A. Law",\N,"1994-05-19"
+"44877","From the Earth to the Moon",\N,"1998-05-10"
+"44985","Victorious",\N,"2013-02-02"
+"45046","Klovn","45044","2005-02-07"
+"45049","'Allo 'Allo!",\N,"1984-09-14"
+"45238","Dr. Quinn, Medicine Woman",\N,"1998-05-16"
+"45326","Cinéastes de notre temps",\N,"1971-01-01"
+"45347","風雲!たけし城",\N,\N
+"45348","Die Dreisten Drei - Die Comedy-WG",\N,\N
+"45353","Ed",\N,"2004-02-06"
+"45354","Titus",\N,\N
+"45375","エックス Ekkusu",\N,"2001-01-01"
+"45392","Nurse Jackie",\N,"2013-06-16"
+"45406","Teiruzu obu ji Abisu",\N,"2008-10-03"
+"45450","Do Over",\N,"2002-12-05"
+"45495","Alles in Ordnung - Mit dem Wahnsinn auf Streife",\N,\N
+"45651","Call me Fitz",\N,\N
+"45722","Archer",\N,"2010-03-18"
+"45880","The Class",\N,"2007-03-05"
+"45993","Fear Itself",\N,\N
+"46019","Come Fly with Me",\N,"2011-01-27"
+"46047","Dr. Molly & Karl",\N,"2008-12-11"
+"46060","SOKO Wismar","124189","2019-12-11"
+"47629","ラブ★コン",\N,"2007-04-07"
+"46339","Cavalcade of Cartoon Comedy",\N,\N
+"46409","Terra Nova",\N,"2011-12-19"
+"47632","Attack of the Killer Tomatoes",\N,\N
+"46507","Boston Public",\N,"2005-03-02"
+"46587","Single Father",\N,"2010-10-28"
+"46662","Grosse Pointe",\N,"2001-02-18"
+"46761","This Is England '86",\N,\N
+"46803","Takin' Over the Asylum",\N,"1994-11-01"
+"46930","Close to Home",\N,"2007-05-11"
+"46955","The Benny Hill Show",\N,\N
+"47091","Rowdy's Road Trips",\N,\N
+"47169","Tinker, Tailor, Soldier, Spy",\N,"1979-09-10"
+"47194","Yakkity Yak",\N,\N
+"47195","Chalk Zone",\N,\N
+"47225","The New Avengers",\N,"1977-11-25"
+"47247","Bionic Six",\N,\N
+"47248","The Bionic Woman",\N,\N
+"47283","Invasion",\N,"2006-05-17"
+"47358","Touch",\N,"2012-05-31"
+"47661","Noi siamo angeli",\N,"1997-03-26"
+"47662","Smiley's People",\N,"1984-01-16"
+"47691","Invasion",\N,\N
+"47708","Ijon Tichy - Raumpilot",\N,"2007-05-07"
+"47965","Tron: Uprising",\N,\N
+"47987","Saturday Night Live",\N,"2011-04-02"
+"47995","Doppelter Einsatz",\N,"2007-07-31"
+"48021","Star Wars: The Clone Wars","10",\N
+"48168","widescreen avant*garde",\N,"2008-05-21"
+"48250","Enlightened",\N,\N
+"48292","Veronica's Closet",\N,"2000-12-07"
+"48297","Being Erica",\N,\N
+"48298","Rebelde Way",\N,\N
+"48306","gansuringā gāru",\N,\N
+"48347","Kollegium - Klassenkampf im Lehrerzimmer",\N,\N
+"48390","Supaidâman","89988",\N
+"48397","The Amazing Spider-Man","89988",\N
+"114660","The Webventures of Justin and Alden",\N,"2010-05-24"
+"81503","Rosa Roth",\N,"2013-10-12"
+"48646","Twenty Twelve",\N,"2011-04-18"
+"48853","Ugly Americans",\N,"2012-04-25"
+"48876","Lost in Space",\N,\N
+"48880","The Young and the Restless",\N,"2011-01-01"
+"48882","Jack & Bobby",\N,"2005-05-11"
+"48977","KRÖMER - Die internationale Show",\N,"2011-04-28"
+"49087","Upstate",\N,\N
+"49097","Mindhunter",\N,\N
+"49781","Die perfekte Minute",\N,"2011-04-15"
+"49130","Matador",\N,"1982-01-02"
+"49154","The Sweeney",\N,\N
+"49204","Galactica 1980",\N,"1980-05-04"
+"49330","Space: Above and Beyond",\N,"1995-01-01"
+"49386","Zettai Shougeki: Platonic Heart",\N,\N
+"49431","Las Vegas",\N,\N
+"49467","The Misfits Trash Monsters",\N,\N
+"49635","Fame",\N,\N
+"49665","Angela Anaconda",\N,"2002-02-24"
+"49741","The Governator",\N,\N
+"49780","Schlag den Raab",\N,\N
+"49902","Beastmaster: The Legend Continues",\N,"2002-05-13"
+"49928","My Little Pony: Friendship Is Magic",\N,\N
+"49940","The Governator",\N,\N
+"49988","スーパーナチュラル Supernatural: The Animation",\N,"2011-01-12"
+"50001","Breaking In",\N,"2011-04-27"
+"50131","Ace Ventura: Pet Detective",\N,\N
+"50133","Jakers! The Adventures of Piggley Winks",\N,\N
+"50148","The Brothers Flub",\N,\N
+"50149","Dino Riders",\N,\N
+"50150","Duckman: Private Dick/Family Man",\N,\N
+"50151","The Huckleberry Hound Show",\N,\N
+"50167","Pepper Ann",\N,"2001-11-23"
+"50186","Sexy Sport Clips",\N,\N
+"50187","Zwei bei Kallwass",\N,\N
+"50971","Bikini Destinations",\N,"2003-08-25"
+"51019","Exile",\N,"2011-05-01"
+"50388","American Gods",\N,"2017-06-18"
+"58064","Boss",\N,\N
+"50446","L'odissea",\N,\N
+"50456","Adventure Inc.",\N,"2003-05-12"
+"52242","ふしぎ遊戯 Fushigi Yūgi",\N,"1995-04-06"
+"50714","The Osbournes",\N,\N
+"50716","The New Adventures of Flipper",\N,\N
+"106092","Øyevitne",\N,"2014-11-24"
+"50733","Xanadu",\N,\N
+"50773","Die Kinder vom Alstertal",\N,\N
+"50790","Shōgun",\N,\N
+"50812","Camelot",\N,"2011-06-10"
+"50986","The Persuaders!",\N,"1972-02-25"
+"50995","Edge of Darkness",\N,"1985-12-09"
+"51008","Edge of Darkness",\N,\N
+"51022","Vera",\N,"2019-02-03"
+"51151","True Jackson, VP",\N,"2011-08-20"
+"51244","Verrückt nach Clara",\N,"2007-03-01"
+"51278","Blackpool",\N,"2004-11-11"
+"57874","Viva Berlin!",\N,\N
+"51440","Hotel Babylon",\N,\N
+"51581","House of Cards",\N,\N
+"51582","To Play the King",\N,\N
+"51584","The Final Cut",\N,\N
+"51593","Tiny Toon Adventures",\N,\N
+"81502","Mordkommission Istanbul",\N,"2018-12-25"
+"51680","Charlie's Angels","90977","2011-12-18"
+"51695","Grimm",\N,"2017-03-31"
+"51701","New Girl",\N,"2018-05-15"
+"51726","The Fairly OddParents",\N,"2010-09-18"
+"51769","Person of Interest",\N,"2016-06-21"
+"51833","George of the Jungle",\N,\N
+"51834","The Mighty B!",\N,\N
+"51835","Der Arzt vom Wörthersee",\N,"2008-10-10"
+"51836","My Life as a Teenage Robot",\N,\N
+"51842","Willo the Wisp",\N,\N
+"51843","The Mumbly Cartoon Show",\N,\N
+"51863","The Soul Taker 〜魂狩〜, Za Sōru Teikā ~Tamashii Gari~",\N,"2001-01-01"
+"51871","地獄少女 Jigoku Shōjo",\N,"2005-01-01"
+"51889","Transporter","9518","2014-12-14"
+"51914","Homeland",\N,"2018-04-29"
+"51945","Serial Experiments: Lain",\N,\N
+"51946","Kuranado",\N,"2007-01-01"
+"51958","Topfgeldjäger",\N,\N
+"52043","Nightmares & Dreamscapes: From the Stories of Stephen King",\N,"2006-06-12"
+"52280","Zimmer frei!",\N,\N
+"52160","Der Lehrer",\N,"2019-03-07"
+"52188","Dittsche - Das wirklich wahre Leben",\N,\N
+"52189","RTL Samstag Nacht",\N,\N
+"52285","Strike Back",\N,"2010-04-01"
+"52223","Pyrates",\N,\N
+"52226","Serial Experiments Lain",\N,"1998-07-06"
+"52230","砂ぼうず Sunabōzu",\N,"2004-10-04"
+"52247","ガングレイヴ",\N,"2003-10-06"
+"52334","ベルセルク beruseruku",\N,"1997-01-01"
+"52303","あずまんが大王 azumanga daiō",\N,"2002-01-01"
+"52311","Dennis und Jesko - Die Sketchköppe",\N,\N
+"52322","Franklin & Bash",\N,"2014-10-22"
+"52331","ウィッチブレイド Witchibureido",\N,"2006-01-01"
+"52344","THE八犬伝 Hakkenden shin sho",\N,"1993-01-01"
+"52365","グレート・ティーチャー・オニヅカ gurēto tīchā onizuka",\N,\N
+"52474","Star Ocean EX",\N,"2001-01-01"
+"52410","Lock, Stock...",\N,\N
+"52414","ヴァイスクロイツ vaisu kuroitsu",\N,"1998-01-01"
+"52426","ヘルシング herushingu Ultimate",\N,"2006-01-01"
+"52497","ウルヴァリン Uruvarin",\N,"2011-01-01"
+"52511","Allô Police",\N,"1970-07-20"
+"52522","Assy McGee",\N,"2008-07-06"
+"52528","エックスメン Ekkusu Men","748","2011-04-01"
+"52552","アイアンマン Aian Man",\N,"2010-01-01"
+"52599","The Kill Point",\N,"2007-08-26"
+"52760","Femme Fatales",\N,"2011-05-13"
+"52783","State of Play",\N,"2003-06-22"
+"52793","Pocoyo",\N,\N
+"52797","ブレイド","735","2011-09-16"
+"52835","Falling Skies",\N,"2015-08-30"
+"52889","Pretty Little Liars",\N,"2015-03-24"
+"52945","Lois & Clark: The New Adventures of Superman","8537","1997-06-14"
+"53002","Pornography: The Secret History of Civilisation",\N,\N
+"53052","Tru Calling",\N,"2005-06-27"
+"53060","Run Buddy Run",\N,"1966-12-05"
+"53065","Mr. Terrific",\N,"1967-05-08"
+"53070","The New Addams Family",\N,"1999-08-28"
+"53085","October Road",\N,"2008-03-10"
+"53285","Doug",\N,"1994-11-14"
+"53292","What's with Andy?",\N,"2001-01-01"
+"53423","Superman - The Animated Series",\N,"1996-01-01"
+"53506","Tour of Duty",\N,\N
+"53570","Duck Dodgers",\N,"2005-11-11"
+"53583","Die Schule der kleinen Vampire",\N,"2010-01-01"
+"53603","Higurashi no Naku Koro ni",\N,"2009-03-25"
+"53607","Monty Python's Flying Circus",\N,"1974-12-05"
+"53689","Ao no Exorcist 青の祓魔師",\N,"2011-01-01"
+"53709","Friday Night Lights",\N,\N
+"53796","Higurashi no Naku Koro ni Kai",\N,\N
+"53797","Kore wa Zombie Desu ka?",\N,\N
+"53799","Umineko no Naku Koro ni",\N,\N
+"53801","Angel Beats!",\N,\N
+"53822","Shiki",\N,\N
+"53823","Sora no Otoshimono",\N,\N
+"53824","Seikimatsu Okaruto Gakuin 世紀末オカルト学院",\N,"2010-06-05"
+"115821","Wisdom of the Crowd",\N,"2018-01-14"
+"53878","Kannagi",\N,\N
+"53879","Shuffle!",\N,\N
+"53881","Durch die Nacht mit …",\N,"2011-09-06"
+"53880","Durch die Nacht mit …",\N,"2011-09-06"
+"53923","Jennie: Lady Randolph Churchill",\N,\N
+"53963","Tijuana Toads",\N,\N
+"54014","True Love",\N,"2012-06-18"
+"54067","少女革命ウテナ / Shoujo Kakumei Utena",\N,"1997-04-02"
+"54190","Peep Show",\N,"2003-09-19"
+"54095","Joan of Arcadia",\N,"2005-04-22"
+"54103","Deadman Wonderland",\N,\N
+"54112","獣兵衛忍風帖 -龍宝玉篇- Jūbei Nimpūchō -Ryūhōgyoku Hen-",\N,"2003-01-01"
+"54182","Breakout Kings",\N,"2012-04-29"
+"54191","The Mighty Boosh",\N,\N
+"54220","United States of Tara",\N,"2009-04-04"
+"54228","Luther",\N,"2015-12-22"
+"54233","Babar und die Abenteuer von Badou",\N,\N
+"54269","Robin Hood",\N,"2009-06-27"
+"54275","Mortal Kombat - Conquest",\N,"1998-01-01"
+"54306","Louie",\N,"2011-06-23"
+"54332","13th Grade",\N,\N
+"54373","Silk",\N,\N
+"54402","Alphas",\N,"2012-10-22"
+"54415","Corner Gas",\N,"2006-10-09"
+"54484","Becker",\N,\N
+"54499","Shameless",\N,"2011-03-08"
+"54565","ラストエグザイル",\N,"2003-01-01"
+"54595","Thundercats",\N,"1985-01-01"
+"54813","Ulmens Auftrag",\N,\N
+"54770","Battlestar Galactica - The Resistance",\N,\N
+"54771","Space",\N,"2001-08-26"
+"55064","The Dana Carvey Show",\N,"1996-04-23"
+"54983","Gigolos",\N,"2011-05-26"
+"55003","Oz",\N,\N
+"55011","Suits",\N,"2014-04-03"
+"55036","The Lying Game",\N,"2011-09-19"
+"55104","Wildes Skandinavien",\N,"2011-08-15"
+"55193","Downwardly Mobile",\N,"2013-01-01"
+"55209","Wilfred",\N,"2010-03-08"
+"55228","Wilfred",\N,"2014-08-13"
+"55245","11.22.63",\N,"2016-04-04"
+"55298","Kôdo giasu: Hangyaku no rurûshu",\N,\N
+"55300","Kôdo giasu: Hangyaku no rurûshu R2",\N,\N
+"55323","Sketchup",\N,\N
+"55377","Dope",\N,\N
+"55415","Are You Afraid of the Dark?",\N,\N
+"55416","3-2-1 Contact",\N,\N
+"55417","The Simple Life",\N,\N
+"55452","Die MSA",\N,\N
+"55459","Die Alm - Promischweiß und Edelweiß",\N,\N
+"55476","The 2-2",\N,\N
+"55478","2 Broke Girls",\N,"2017-04-17"
+"55480","A Gifted Man",\N,\N
+"55484","Full Metal Panic! The Second Raid",\N,\N
+"55487","Kimi ga Nozomu Eien",\N,\N
+"55488","Detroit Metal City",\N,\N
+"55489","Gankutsuou",\N,\N
+"55490","Tengen Toppa Gurren-Lagann",\N,\N
+"55491","School Days",\N,\N
+"55492","Bokusatsu Tenshi Dokuro-chan",\N,\N
+"55493","NHK ni Youkoso!",\N,\N
+"55494","Mushishi",\N,\N
+"55495","Shingetsutan Tsukihime",\N,\N
+"55497","Lucky Star",\N,\N
+"55511","Highlander - The Animated Series",\N,"1994-09-18"
+"55525","Life After People",\N,\N
+"55554","Criminal Minds: Suspect Behavior",\N,"2011-05-25"
+"55574","The Killing",\N,"2012-06-10"
+"55618","名探偵コナン Meitantei Conan","111659","1996-01-01"
+"55653","黒の契約者",\N,"2007-01-01"
+"55656","The Tomorrow People",\N,\N
+"55657","Galaxy Rangers",\N,\N
+"55668","Untitled Star Trek-Series",\N,\N
+"55669","Pax Aeterna",\N,\N
+"55670","American Horror Story",\N,"2017-11-14"
+"55702","Ashes to Ashes",\N,"2009-06-08"
+"55992","Inhumanoids",\N,"1986-07-14"
+"55863","Mission: Impossible",\N,\N
+"55864","Mission: Impossible","1606","1973-03-30"
+"55945","ウィッチハンターロビン",\N,"2002-01-01"
+"55991","Blues Brothers",\N,\N
+"56005","Auf der Jagd nach dem Grünen Diamanten",\N,\N
+"56013","Titanic: Blood and Steel",\N,\N
+"56033","Tabaluga tivi",\N,\N
+"56043","ドラゴンボールGT",\N,"1996-02-02"
+"56100","The Corrections",\N,\N
+"56499","Source Code",\N,\N
+"56090","The Adventures of Brisco County Jr.",\N,\N
+"56150","Geisterjäger John Sinclair",\N,"2000-01-01"
+"56233","Life Begins",\N,\N
+"56246","Little Dorrit",\N,"2008-12-11"
+"56289","Maddin in Love",\N,\N
+"56306","Gargoyles",\N,"1994-10-24"
+"56357","Untitled Sex and the City-Prequel",\N,\N
+"56360","Walking with Dinosaurs",\N,\N
+"56367","Yu-Gi-Oh",\N,\N
+"56371","L'orpheline",\N,\N
+"56375","Biker Mice from Mars",\N,"1993-09-18"
+"56404","Hannibal","9743","2015-08-29"
+"56411","けいおん!",\N,"2009-05-07"
+"56413","宝島 Takarajima",\N,"1978-10-08"
+"56437","Gunsmoke",\N,"1975-03-31"
+"56438","Major Dad",\N,\N
+"56439","Durarara!!",\N,\N
+"56497","X-Diaries - love, sun & fun",\N,\N
+"56498","Berlin - Tag und Nacht",\N,\N
+"56549","Hour of Power",\N,\N
+"56589","Parks and Recreation",\N,"2014-04-17"
+"56594","The Eleventh Commandment",\N,\N
+"56606","Heartland",\N,"2017-03-26"
+"56642","Miranda",\N,"2010-11-15"
+"56658","So weit die Füße tragen",\N,"1959-02-12"
+"56668","Wildes Deutschland",\N,"2016-10-09"
+"56677","Neighbours",\N,\N
+"56678","Lüthi und Blanc",\N,\N
+"56680","The Streets of San Francisco",\N,"1977-06-09"
+"56732","Pair of Kings",\N,"2011-12-05"
+"56760","The Power of Nightmares: The Rise of the Politics of Fear",\N,\N
+"56762","Revenge",\N,\N
+"56763","Revenge",\N,"2015-05-10"
+"56896","Steins;Gate シュタインズ・ゲート",\N,"2011-04-06"
+"56980","Karino",\N,\N
+"57026","Fairy Tail",\N,\N
+"57037","Free for All",\N,\N
+"57038","The Hasselhoffs",\N,\N
+"57102","Harve Karbo",\N,\N
+"57110","Pan Am",\N,\N
+"57140","Alpha 0.7 - Der Feind in dir",\N,"2010-11-14"
+"57183","十二国記 Juuni Kôkki",\N,"2002-01-01"
+"57401","5ive Days to Midnight",\N,"2004-07-11"
+"57411","Once Upon A Time",\N,"2016-05-15"
+"57455","Game One",\N,"2006-09-27"
+"57464","Pandamonium",\N,"1982-01-01"
+"57467","ルパン三世 Lupin the 3rd",\N,"1971-01-01"
+"57473","Zombieland",\N,\N
+"57595","Samochodzik i templariusze",\N,\N
+"57657","Heiter bis tödlich – Nordisch herb",\N,\N
+"57679","10 Things I Hate About You",\N,\N
+"57783","Life's Too Short",\N,\N
+"57682","The Punisher",\N,\N
+"57760","Neverwhere",\N,\N
+"57764","Magic City",\N,\N
+"57786","ペルソナ 〜トリニティ・ソウル〜 Perusona: Toriniti sôru",\N,"2007-12-24"
+"57791","Anger Management",\N,"2014-12-22"
+"57809","Grimmsberg",\N,"2011-09-29"
+"57833","Bakuretsu tenshi",\N,"2004-04-06"
+"57836","ギルティクラウン",\N,"2011-01-01"
+"57839","会長はメイド様 Kaichō wa Maid-sama!",\N,"2010-04-01"
+"57855","シティーハンタ",\N,"1987-04-06"
+"57867","Allen Gregory",\N,\N
+"57869","エンジェル・ハート",\N,"2005-10-03"
+"58065","Up All Night",\N,\N
+"58066","Suburgatory",\N,"2014-05-07"
+"58090","キャッツ アイ Cat's Eye",\N,"1983-07-11"
+"58248","Da Vinci's Demons",\N,"2015-12-26"
+"58268","Kung Fu Panda: Legends of Awesomeness",\N,\N
+"58274","Soap",\N,"1977-09-13"
+"58333","Godzilla - The Series",\N,"1998-09-12"
+"58348","Schwer verliebt",\N,\N
+"58349","Schwiegertochter gesucht",\N,\N
+"58354","House of Lies",\N,"2012-02-12"
+"58371","Hart of Dixie",\N,"2015-03-27"
+"58373","Last Man Standing",\N,"2019-05-10"
+"58374","Prime Suspect",\N,"2012-01-22"
+"58376","Awake",\N,"2012-05-17"
+"58377","Masters of Sex",\N,"2015-08-23"
+"58481","The Munsters",\N,\N
+"58483","ダンス イン ザ ヴァンパイアバンド",\N,"2010-01-07"
+"58521","The Secret World of Alex Mack",\N,"1998-01-15"
+"58536","Adventure Time",\N,\N
+"58538","I Hate My Teenage Daughter",\N,\N
+"58540","Man Up!",\N,\N
+"58542","Unforgettable",\N,"2016-01-22"
+"58559","Whitney",\N,"2013-03-27"
+"58678","Doc Holliday",\N,\N
+"58697","Entführt - Gib mir mein Kind zurück!",\N,\N
+"58708","Dragon Quest: Dai no Daibouken",\N,\N
+"58709","Zuhause im Glück – Unser Einzug in ein neues Leben",\N,\N
+"58719","Kanon (2006)",\N,\N
+"58721","Gyakkyou Burai Kaiji: Ultimate Survivor",\N,\N
+"58723","Spider-Man The Animated Series","89988",\N
+"58726","Tantei Gakuen Q",\N,\N
+"58771","Air",\N,\N
+"58774","Daria",\N,"2001-06-25"
+"58865","The Nine Lives of Chloe King",\N,\N
+"58866","Necessary Roughness",\N,"2011-07-20"
+"58867","Party Down",\N,\N
+"58868","Childrens Hospital",\N,\N
+"58870","Outcasts",\N,\N
+"58871","CHAOS",\N,\N
+"58885","Out of Sight",\N,\N
+"58941","The Firm",\N,\N
+"59179","This American Housewife",\N,"2013-01-01"
+"59117","House of Cards",\N,"2018-11-02"
+"59194","James May's Toy Stories",\N,"2011-06-12"
+"59205","Top Gear",\N,\N
+"96701","Der Schwarzwaldhof",\N,"2012-07-13"
+"59581","機動戦士ガンダムSEED DESTINY Kidô senshi Gundam Seed Destiny",\N,"2004-01-01"
+"59361","Girls",\N,"2013-03-17"
+"59421","The Newsroom",\N,"2012-07-15"
+"59468","CX GameCenter CX",\N,"2003-11-04"
+"59535","Captain America",\N,"1944-02-15"
+"59540","Black Mirror",\N,"2014-12-16"
+"59564","Judex",\N,"1917-02-14"
+"59636","Yojôhan shinwa taikei",\N,"2010-04-22"
+"59677","The Day After",\N,\N
+"59917","Achtung Kontrolle! Einsatz für die Ordnungshüter",\N,\N
+"59921","Any Human Heart",\N,\N
+"60310","カレイドスター",\N,\N
+"60309","Kaleido Star",\N,\N
+"60057","Die Avengers - Die mächtigsten Helden der Welt",\N,\N
+"60066","Laramie",\N,\N
+"60067","Tales of the Unexpected",\N,\N
+"60069","Tales of Unease",\N,\N
+"60151","Alpha Alpha",\N,"1972-08-02"
+"60155","Lilyhammer",\N,"2014-12-17"
+"60182","Die Wollnys - Eine schrecklich große Familie!",\N,\N
+"60185","Der Tatortreiniger",\N,"2018-12-19"
+"60264","Angry Boys",\N,\N
+"60265","Rob",\N,\N
+"60315","Comic Book Men",\N,\N
+"60317","Are You There, Chelsea?",\N,"2012-03-28"
+"60323","Mob City",\N,"2013-12-18"
+"60388","Star Wars: Underworld",\N,\N
+"60408","Silver Surfer",\N,"1998-02-07"
+"60412","The Prisoner",\N,"2009-11-15"
+"60418","Father Ted",\N,"1996-12-24"
+"60426","The Prisoner - Der Gefangene",\N,\N
+"60511","Schneller als die Polizei erlaubt",\N,"2008-10-12"
+"60603","Tih-Minh",\N,"1919-02-15"
+"60679","Agatha Christie's Poirot",\N,"2013-11-13"
+"60690","Born to Kill?",\N,"2012-01-22"
+"60778","Life in Cold Blood",\N,"2008-03-03"
+"60805","All Talk",\N,\N
+"60839","Life on Earth",\N,"1979-04-10"
+"61020","Ninja Turtles: The Next Mutation",\N,\N
+"61021","Teenage Mutant Ninja Turtles",\N,\N
+"61022","Man v. Food",\N,\N
+"61040","Sherlock Holmes",\N,\N
+"61067","Smash",\N,\N
+"61068","The River",\N,\N
+"61222","Evolution",\N,"2002-05-05"
+"61243","How Do You Want Me?",\N,\N
+"61244","A Bit of Fry and Laurie",\N,\N
+"61245","Garth Marenghi's Darkplace",\N,\N
+"61246","Man to Man with Dean Learner",\N,\N
+"61247","Snuff Box",\N,\N
+"61248","Fallen Angels",\N,"1995-11-26"
+"61281","Alien Nation",\N,\N
+"61304","Silent Cooking",\N,\N
+"61481","Dominion",\N,"2014-08-07"
+"61561","The Private Life of Plants",\N,"1995-02-15"
+"61769","Kingdom Hospital",\N,"2004-07-15"
+"61790","Brotherhood",\N,\N
+"61794","Day Break",\N,\N
+"61906","Doogie Howser, M.D.",\N,"1989-01-01"
+"61909","夏目友人帳 / Natsume Yūjinchō",\N,"2008-07-07"
+"61911","Peep!",\N,\N
+"61912","Wa(h)re Liebe",\N,\N
+"61913","Liebe Sünde",\N,\N
+"61914","Zlatkos Welt",\N,\N
+"61935","Vanpaia naito",\N,\N
+"61937","Sensitive Skin",\N,\N
+"62001","Veep",\N,"2012-05-13"
+"62002","The Middle",\N,"2018-05-22"
+"62006","Privileged",\N,"2009-02-24"
+"62009","Death Valley",\N,\N
+"62016","GCB",\N,\N
+"62018","Missing",\N,"2012-05-17"
+"62063","The Cleveland Show",\N,"2013-05-19"
+"62071","Bernard",\N,\N
+"62120","Stark Raving Mad",\N,\N
+"62121","Hunter Hunted",\N,\N
+"62122","Wheeler Dealers",\N,\N
+"62128","Night Gallery",\N,"1970-12-16"
+"62142","Awkward.",\N,"2016-05-24"
+"62143","Criss Angel Mindfreak",\N,\N
+"62144","The Singing Detective",\N,\N
+"62146","How to be a Gardener",\N,"2002-01-01"
+"62177","Between Two Ferns with Zach Galifianakis",\N,\N
+"62233","Bully Beatdown",\N,\N
+"62235","Monster Garage",\N,\N
+"62299","Political Animals",\N,\N
+"62356","Traumfrau gesucht",\N,\N
+"62361","Survivorman",\N,\N
+"62362","Kargar trifft den Nagel",\N,\N
+"62363","Para-Comedy",\N,\N
+"62364","The Girls Next Door",\N,\N
+"62385","Greg the Bunny",\N,\N
+"62386","Hot Properties",\N,\N
+"62723","Commanding Heights: The Battle for the World Economy",\N,\N
+"62724","Free To Choose",\N,\N
+"62439","Braveheart",\N,\N
+"62464","Knifeman",\N,\N
+"62473","Liar Game",\N,\N
+"62478","Mrs. Eastwood & Company",\N,\N
+"62492","Mini Playback Show",\N,\N
+"62493","Popstars",\N,\N
+"62494","Unser Star für Baku",\N,\N
+"62495","The X Factor",\N,\N
+"62496","The Voice of Germany",\N,\N
+"62497","Deutschland sucht den Superstar",\N,\N
+"62504","American Gladiators",\N,\N
+"62515","Ultimate Spider-Man","89988","2012-04-01"
+"62520","The Spectacular Spider-Man","89988","2008-03-08"
+"62552","Die Deutschen",\N,"2010-12-14"
+"62583","The Jeffersons",\N,\N
+"62584","All in the Family",\N,\N
+"62585","Till Death Us Do Part",\N,\N
+"62586","Maude",\N,\N
+"62719","1, 2 oder 3",\N,\N
+"62725","The Ascent Of Money",\N,\N
+"62746","Romanzo criminale - La serie",\N,\N
+"62751","East West 101",\N,\N
+"62809","Fargo",\N,"2017-06-21"
+"62872","The Hitchhiker",\N,\N
+"62900","Animaniacs",\N,\N
+"62911","Vorsicht, Falle!",\N,\N
+"62912","Aktenzeichen XY … ungelöst",\N,\N
+"62970","The Playboy Club",\N,\N
+"62973","The Angry Videogame Nerd",\N,"2004-03-01"
+"62978","Pinwright's Progress",\N,\N
+"62981","Armadillo",\N,\N
+"62982","Zorro",\N,\N
+"62996","The Hour",\N,\N
+"63037","Underbelly",\N,\N
+"63053","Derek",\N,\N
+"63077","The Increasingly Poor Decisions of Todd Margaret",\N,\N
+"63078","White Heat",\N,\N
+"63079","Top Of The Lake",\N,"2013-08-17"
+"63081","Pramface",\N,\N
+"63086","Boys from the Blackstuff",\N,"1982-10-10"
+"63087","Boys from the Blackstuff",\N,\N
+"63097","魔法少女まどか☆マギカ Mahō Shōjo Madoka Magika",\N,\N
+"63131","Cardiac Arrest",\N,\N
+"63132","Bodies",\N,\N
+"63133","St. Elsewhere",\N,\N
+"63134","Green Wing",\N,\N
+"63162","Footballers' Wives",\N,\N
+"63214","Die Torpiraten",\N,\N
+"63217","Frozen Planet",\N,\N
+"63233","特警ウインスペクター Tokkei Uinsupekutâ",\N,"1990-02-04"
+"63238","True Detective",\N,"2014-03-09"
+"63284","heute-show",\N,\N
+"63286","Playhouse Presents",\N,"2012-04-19"
+"63299","The Legend of Korra",\N,"2012-06-23"
+"63318","strassen stars",\N,\N
+"63319","Wingin’ it",\N,\N
+"63320","Supah Ninjas",\N,\N
+"63321","Summer in Transylvania",\N,\N
+"63322","Bucket and Skinner's Epic Adventures",\N,\N
+"63337","Creature Comforts",\N,\N
+"63338","Trailer Park Boys",\N,"2001-04-22"
+"63365","Bron/Broen",\N,\N
+"63366","Lip Service",\N,\N
+"63370","Lip Service",\N,\N
+"63430","Vega$",\N,\N
+"63431","77 Sunset Strip",\N,\N
+"63480","Summer Heights High",\N,\N
+"63481","Angry Boys",\N,\N
+"63501","Tiny Toon Adventures",\N,\N
+"63529","Genie in the House",\N,\N
+"63694","The Amazing Howard Hughes",\N,\N
+"63695","Deine Chance! 3 Bewerber - 1 Job",\N,\N
+"63702","Bambino in fuga",\N,\N
+"63704","Party, Bruder!",\N,\N
+"63721","The Gangster Chronicles",\N,\N
+"63722","Memphis Beat",\N,\N
+"63747","Men at Work",\N,"2014-03-12"
+"63748","Hatfields & McCoys",\N,"2012-05-30"
+"63823","Braunschlag",\N,"2012-11-06"
+"63833","Black Sails",\N,"2017-04-02"
+"63844","Oskyldigt dömd",\N,\N
+"63899","Revolution",\N,"2014-05-21"
+"63901","Save me",\N,\N
+"63902","1600 Penn",\N,"2013-03-28"
+"63903","The New Normal",\N,"2013-04-02"
+"63959","The Real Housewives of Orange County",\N,\N
+"63960","The Andy Griffith Show",\N,\N
+"64003","The Daily Show",\N,\N
+"64007","Borgen",\N,"2013-03-10"
+"64033","Vegas",\N,\N
+"64145","The Client List",\N,"2013-06-16"
+"64193","Death In Paradise",\N,"2019-02-28"
+"64321","Ocean Girl",\N,\N
+"64326","Copper",\N,"2012-08-26"
+"64353","The Fades",\N,\N
+"64357","The Following",\N,"2015-05-18"
+"64362","The Honeymooners",\N,\N
+"64370","The Confession",\N,\N
+"64371","Tenacious D",\N,\N
+"64377","Parenthood",\N,"1991-08-11"
+"64382","Don't Trust the B---- in Apartment 23",\N,\N
+"64412","The L.A. Complex",\N,\N
+"64552","The Arrow",\N,"2019-05-13"
+"64581","Teen Mom",\N,\N
+"64583","The Real World",\N,\N
+"64605","The World of Stainboy",\N,\N
+"64646","Sinbad",\N,"2012-09-23"
+"64693","Crash Canyon",\N,\N
+"64740","Great Barrier Reef",\N,\N
+"64771","Kröd Mändoon and the Flaming Sword of Fire",\N,"2009-04-09"
+"64775","Barbarella",\N,\N
+"64810","Happy Endings",\N,"2013-05-03"
+"64887","Black Dynamite","115091","2012-07-15"
+"64906","Baby Daddy",\N,"2017-05-22"
+"64908","Villa Germania - Forever Young",\N,\N
+"64909","Lothar - immer am Ball",\N,\N
+"64910","Liebe im Paradies",\N,\N
+"65129","The Rifleman",\N,\N
+"65130","Rawhide",\N,"1959-01-09"
+"65147","Continuum",\N,"2015-10-09"
+"65149","Willi wills wissen",\N,\N
+"65150","Jungle Cubs",\N,\N
+"65223","Electric City",\N,\N
+"65275","Bates Motel","12687","2017-04-24"
+"65328","Spartacus - Gods of the Arena",\N,"2011-02-25"
+"65334","Steven Seagal: Lawman",\N,\N
+"65384","Aozora shôjotai",\N,\N
+"65393","The Raccoons",\N,\N
+"65425","Danger 5",\N,\N
+"65426","We love Lloret",\N,\N
+"65427","BBQ Pitmasters",\N,\N
+"65428","Dual Survival",\N,\N
+"65429","Rattlesnake Republic",\N,\N
+"65443","an idiot abroad",\N,\N
+"65462","Arthur",\N,\N
+"65463","Marsupilami",\N,\N
+"65464","Marsupilami",\N,\N
+"65465","Ready or Not",\N,\N
+"65466","Bear in the Big Blue House",\N,\N
+"65515","Dinosaucers",\N,\N
+"65546","Survivor",\N,\N
+"65736","JourneyQuest",\N,\N
+"65863","Der Bachelor",\N,\N
+"65864","The Bachelor",\N,\N
+"65865","The Bachelorette",\N,\N
+"65866","Bachelorette - Die Traumfrau",\N,\N
+"65958","Longmire",\N,"2017-11-17"
+"66000","Tak & the Power of Juju",\N,\N
+"66001","As Told By Ginger",\N,\N
+"66003","Planet Sheen",\N,\N
+"66004","Catscratch",\N,\N
+"66005","Wow! Wow! Wubbzy!",\N,\N
+"66007","Ned’s Declassified School Survival Guide",\N,"2004-09-12"
+"66008","Strawberry Shortcake",\N,\N
+"66009","Connor Undercover",\N,\N
+"66066","American Guns",\N,\N
+"66067","Dirty Jobs",\N,\N
+"66068","Gold Rush Alaska",\N,\N
+"66069","Quatsch mit Soße",\N,\N
+"66070","Backyardigans",\N,\N
+"66071","Blue’s Clues",\N,\N
+"66072","Kappa Mikey",\N,\N
+"66076","Lightning Point",\N,\N
+"66089","Menschen in Lebensgefahr",\N,\N
+"66162","South Pacific",\N,\N
+"66164","Hagane no Renkinjutsushi",\N,\N
+"66173","Hit & Miss",\N,"2012-06-19"
+"66174","Portrait of a Marriage",\N,\N
+"66213","Mockingbird Lane",\N,\N
+"66217","The Secret Circle",\N,"2012-05-03"
+"66252","Wild Palms",\N,\N
+"66316","Army Wives",\N,\N
+"66323","Good Cop",\N,\N
+"66345","Vegas",\N,\N
+"66346","Partners",\N,\N
+"66348","Made in Jersey",\N,\N
+"66408","Fluch des Falken",\N,\N
+"66477","Yes Minister",\N,"1980-03-17"
+"66481","Yes, Prime Minister",\N,\N
+"66485","Soap",\N,\N
+"66493","Go On",\N,"2013-04-04"
+"66494","Being Human",\N,"2014-04-07"
+"66495","Animal Practice",\N,\N
+"66497","Major Crimes",\N,"2017-11-28"
+"66498","The Inbetweeners",\N,\N
+"66550","Only Fools and Horses",\N,\N
+"66558","The Vicar of Dibley",\N,\N
+"66563","Dad's Army",\N,"1977-11-13"
+"66573","Porridge",\N,\N
+"66574","Going Straight",\N,\N
+"66575","Open All Hours",\N,\N
+"66580","The Good Life",\N,\N
+"66585","One Foot in the Grave",\N,\N
+"66590","Keeping Up Appearances",\N,\N
+"67410","Dirk Gently",\N,"2012-03-19"
+"66658","The Beach Serie",\N,\N
+"66746","Oceans",\N,\N
+"66795","Homicide - Life on the Street",\N,"1999-05-21"
+"66800","Hill Street Blues",\N,"1981-01-15"
+"66815","The Corner",\N,\N
+"66827","Itazura na kiss",\N,"2008-04-04"
+"66915","Red Dwarf",\N,"1991-03-21"
+"67204","a gURLs wURLd",\N,"2020-10-25"
+"67406","Scott & Bailey",\N,"2014-10-29"
+"67254","Just Jordan",\N,\N
+"67258","Add a Friend",\N,\N
+"67259","Animorphs",\N,\N
+"67284","Star Wars Detours",\N,\N
+"67399","Bob Morane",\N,\N
+"67420","The Spiral",\N,\N
+"67510","Cosmos: A Personal Voyage",\N,\N
+"67540","Rentaghost",\N,\N
+"67544","Parenthood",\N,"2010-10-05"
+"67561","The Exes",\N,"2015-09-16"
+"67601","A Gifted Man",\N,"2012-03-02"
+"67645","Metal Hurlant Chronicles",\N,\N
+"67743","Die gläserne Fackel",\N,"1989-11-20"
+"67754","talk talk talk",\N,\N
+"67790","S.H.I.E.L.D.",\N,\N
+"67874","Aoki Densetsu Shoot!",\N,"1993-01-01"
+"67883","Argento Soma",\N,\N
+"67884","Hey Arnold!",\N,\N
+"67885","Digimon",\N,\N
+"67886","12 Kingdoms",\N,\N
+"67887","Monster Rancher",\N,\N
+"67888","Bumpety Boo - Der kleine gelbe Superflitzer",\N,\N
+"67889","Beyblade",\N,"2001-01-01"
+"67890","Quack Pack - Onkel D. & die Boys!",\N,"1996-01-01"
+"67891","Mega Man",\N,\N
+"67892","Das Büro",\N,"2003-01-01"
+"67893","Mighty Ducks - Das Powerteam",\N,\N
+"67894","Nadia - Die Macht des Zaubersteins",\N,"1990-01-01"
+"67895","Now and Then, Here and There",\N,\N
+"67896","Tenjo Tenge",\N,"2004-01-01"
+"67897","Innocent Venus",\N,\N
+"67898","Amagami SS",\N,\N
+"67899","Tokyo Underground",\N,"1990-01-01"
+"67900","Autopsie - Mysteriöse Todesfälle",\N,\N
+"67901","I\"s Pure",\N,\N
+"67902","Wacky Races",\N,\N
+"67903","Tokio Private Police",\N,"1997-01-01"
+"67937","Die Geissens - Eine schrecklich glamouröse Familie",\N,\N
+"67938","Common Law",\N,"2012-08-10"
+"67975","Halo 4: Forward Unto Dawn",\N,"2012-10-05"
+"67979","Barrabas",\N,"1920-03-13"
+"67983","Wizards vs. Aliens",\N,\N
+"68045","Es kommt noch dicker",\N,\N
+"68046","Auf Herz und Nieren",\N,"2012-10-15"
+"68071","多重人格探偵サイコ Tajuu jinkaku tantei saiko - Amamiya Kazuhiko no kikan",\N,"2000-05-02"
+"68078","Slings and Arrows",\N,"2006-08-28"
+"68111","Static Shock",\N,\N
+"68402","Le comte de Monte-Cristo",\N,\N
+"68409","The Top Secret Life of Edgar Briggs",\N,"1974-09-15"
+"68474","ソードアート・オンライン",\N,"2012-06-24"
+"68958","Conviction",\N,"2006-03-03"
+"68792","666 Park Avenue",\N,\N
+"68793","Hey! Bumbo",\N,\N
+"68806","Last Resort",\N,"2013-01-24"
+"120231","Morgen hör ich auf",\N,"2016-01-30"
+"68808","Vegas",\N,\N
+"68809","The Mindy Project",\N,"2016-05-03"
+"68810","Nashville",\N,\N
+"68926","Hitler TV-Serie",\N,\N
+"68844","1000 Ways to Die",\N,\N
+"68846","Overhaulin’",\N,\N
+"68847","Extreme Makeover: Home Edition",\N,\N
+"68870","The Carrie Diaries",\N,\N
+"68887","The Trail Of The Octopus",\N,"1919-10-19"
+"68946","The Mob Doctor",\N,\N
+"68947","Vegas",\N,\N
+"68966","Lupo Alberto",\N,\N
+"68969","Chiefs",\N,\N
+"68971","Christopher Columbus",\N,\N
+"69062","De legende van de Bokkerijders",\N,\N
+"69066","Zorro: Generation Z - The Animated Series",\N,\N
+"69065","Rita Rocks",\N,\N
+"69063","Surviving Suburbia",\N,\N
+"69064","Doc Martin",\N,"2019-11-13"
+"69008","Perception",\N,"2015-03-17"
+"69009","King",\N,"2012-05-25"
+"69041","Hammerman",\N,\N
+"69042","Mister T",\N,\N
+"69070","Defiance",\N,"2015-08-28"
+"69092","Hannes und der Bürgermeister",\N,\N
+"69315","My Family",\N,\N
+"69204","TV total Quizboxen",\N,\N
+"69205","Absolute Mehrheit - Meinung muss sich wieder lohnen",\N,\N
+"69206","Free Agents",\N,"2009-02-13"
+"98586","Marvel’s Agent Carter","113206","2016-03-01"
+"69345","Free Agents",\N,\N
+"69346","The Inspector Lynley Mysteries",\N,"2007-06-16"
+"69349","Sherlock Holmes",\N,\N
+"69353","Teletubbies",\N,\N
+"69370","Madeline",\N,\N
+"69371","Sabrina's Secret Life",\N,\N
+"69401","Caleb Williams",\N,\N
+"69428","The Far Cry Experience",\N,"2012-11-29"
+"69469","Growing Up Creepie",\N,\N
+"69480","SamSam",\N,\N
+"69482","Tara Duncan",\N,\N
+"69483","Titeuf",\N,\N
+"69511","Janoschs Tiger, Bär und Antje",\N,\N
+"69517","Kong",\N,\N
+"69519","Les nouvelles aventures de Spirou et Fantasio",\N,\N
+"69520","Famille Pirate",\N,\N
+"69521","Käpt'n Blaubär Club",\N,\N
+"69522","What About Brian",\N,"2007-03-26"
+"69523","BBC - Nature's Gladiators",\N,\N
+"69667","The Wild Thornberrys",\N,\N
+"69668","Those Scurvy Rascals",\N,\N
+"69669","Purple and Brown",\N,\N
+"69670","Go, Diego, Go!",\N,\N
+"69671","Life with Boys",\N,\N
+"69689","Kemonozume",\N,\N
+"69734","Wetten, dass..?",\N,\N
+"69738","Belgium's Got Talent",\N,\N
+"69757","The Americans",\N,"2018-05-30"
+"69782","Three Rivers",\N,"2010-07-03"
+"69808","Alps Monogatari Watashi No Annette",\N,"1983-01-09"
+"69817","Ai shoujo Porianna monogatari",\N,"1986-01-12"
+"69820","My Boys",\N,"2010-09-12"
+"70002","Lerchenberg",\N,"2015-09-22"
+"70063","Yume no Hoshi no Button Nose",\N,"1985-10-19"
+"70186","Sugar Rush",\N,"2006-08-10"
+"70189","Strawberry Panic",\N,\N
+"70195","Kojika monogatari",\N,"1983-11-08"
+"70217","Ripper Street",\N,"2016-10-12"
+"70224","McLaren Tooned",\N,\N
+"70227","Parade's End",\N,"2012-08-24"
+"70251","High Mountain Rangers",\N,\N
+"70263","Der Prins muß her",\N,"1987-03-01"
+"70266","Jolly Joker",\N,"1991-01-06"
+"70278","Metal Evolution",\N,\N
+"70534","Die Harald Schmidt Show",\N,\N
+"70304","Hitlerland",\N,\N
+"70311","The Cult",\N,\N
+"70312","The Untold History of the United States",\N,\N
+"70313","Jonathan Strange & Mr. Norrell",\N,\N
+"70314","Halt and Catch Fire",\N,"2014-06-01"
+"70321","Hafendetektiv",\N,\N
+"70370","Melissa & Joey",\N,"2015-08-05"
+"70422","Gavin & Stacey",\N,"2007-05-13"
+"70473","Ray Donovan",\N,"2016-09-18"
+"70511","Crazy Like a Fox",\N,\N
+"70515","Dallas",\N,"2014-09-22"
+"70532","Domian",\N,\N
+"70594","機動警察パトレイバー Kidô keisatsu patorebâ",\N,"1989-10-11"
+"70609","Roche & Böhmermann",\N,"2012-03-04"
+"70702","Vikings",\N,"2019-01-30"
+"70863","Infinite Stratos",\N,\N
+"70924","Montbrison: The Brian Adams Chronicles",\N,\N
+"70941","Tattoo - Eine Familie sticht zu",\N,\N
+"71014","Tell Me You Love Me",\N,\N
+"71015","Inside Men",\N,"2012-02-23"
+"71018","つり球",\N,"2012-04-13"
+"71067","River Monsters",\N,\N
+"71092","Night Court",\N,\N
+"71105","Elementary",\N,"2019-08-15"
+"71194","Summerland",\N,"2005-07-18"
+"71284","Der Schattenmann",\N,"1996-01-08"
+"71326","Soldaty Svobody",\N,\N
+"71427","Criminal Justice",\N,\N
+"71576","Make It or Break It",\N,"2012-05-14"
+"71632","The Alien Years",\N,\N
+"71646","Ringer",\N,"2012-04-17"
+"71674","Miami Medical",\N,"2010-07-02"
+"71732","Mad Love",\N,"2011-05-16"
+"71747","Life Is Wild",\N,"2008-02-03"
+"71874","Blackout",\N,\N
+"71880","Dragon Ball Kai",\N,\N
+"71902","Bundesliga Pur",\N,"2013-02-02"
+"71910","The Zeta Project",\N,\N
+"71962","Pan Am",\N,"2012-02-19"
+"72095","The Finder",\N,"2012-05-11"
+"72190","Dink, the Little Dinosaur",\N,\N
+"72231","Beauty & the Nerd",\N,\N
+"72240","Las Vegas",\N,"2006-05-12"
+"72475","Internet Killed Television",\N,\N
+"72481","We love Sölden",\N,\N
+"88904","iZombie",\N,"2018-05-28"
+"72584","Don’t Trust the B---- in Apartment 23",\N,"2013-05-17"
+"72679","American Gypsies",\N,\N
+"72680","Law & Order: LA",\N,"2011-07-11"
+"73120","Hyouka",\N,\N
+"72793","Accidentally on Purpose",\N,"2010-04-21"
+"74640","The Starter Wife",\N,"2008-12-12"
+"72828","Primeval: New World",\N,"2013-02-19"
+"73925","Up All Night",\N,"2012-12-13"
+"74277","Walking in Circles",\N,\N
+"75458","Beautiful People",\N,"2006-04-24"
+"74278","Voyage Trekkers",\N,\N
+"74602","Under the Dome",\N,"2015-09-10"
+"73117","Spice and Wolf",\N,\N
+"73048","Courting Alex",\N,"2006-08-28"
+"73617","Nikita",\N,"2011-05-12"
+"73080","Fate/Zero",\N,\N
+"75225","Scandal",\N,"2013-05-16"
+"73193","Bakemonogatari",\N,"2009-07-03"
+"73786","Life as We Know It",\N,"2005-01-20"
+"74766","Guys with Kids",\N,"2013-02-27"
+"74279","Brothers Barbarian",\N,\N
+"74315","Der Wunschpunsch",\N,\N
+"75108","Friends with Benefits",\N,"2011-09-16"
+"74631","Breaking In",\N,"2012-08-22"
+"74411","Crossing Lines",\N,"2015-12-04"
+"74717","Fairly Legal",\N,"2012-06-15"
+"74983","Emily Owens, M.D.",\N,"2013-02-05"
+"75917","Hope and Faith",\N,"2004-05-14"
+"76207","Saving Hope",\N,"2015-02-18"
+"77066","The Burning Zone",\N,"1997-05-13"
+"76346","Matlock",\N,"1995-05-07"
+"76370","Stingray",\N,"1985-07-14"
+"76386","The Blacklist",\N,"2018-05-16"
+"76760","Marvel’s Agents of S.H.I.E.L.D.","113206","2018-05-18"
+"76602","Law & Order: UK",\N,"2014-08-18"
+"77087","seaQuest DSV",\N,"1995-05-13"
+"76825","The Millers",\N,"2015-02-11"
+"76901","Sleepy Hollow",\N,"2017-03-31"
+"77010","Beauty and the Beast",\N,"2016-09-15"
+"79075","Cracked",\N,"2013-11-25"
+"79023","King & Maxwell",\N,"2013-08-05"
+"77614","Broadchurch",\N,"2013-04-15"
+"77673","Bitten",\N,"2016-04-15"
+"77803","Utopia",\N,"2013-02-12"
+"78075","Cosmos: A Space-Time Odyssey",\N,"2014-05-18"
+"78448","Motive",\N,"2016-08-30"
+"79253","Kidnapped",\N,"2007-08-04"
+"79201","Chicago Fire",\N,"2019-05-22"
+"78659","Witches of East End",\N,"2014-10-05"
+"79035","Life on Mars",\N,"2009-03-25"
+"79302","Les Revenants",\N,"2015-10-19"
+"79149","The Crazy Ones",\N,"2014-04-17"
+"79442","Women's Murder Club",\N,"2008-05-06"
+"79489","The White Queen","79488","2013-08-18"
+"80265","The Originals",\N,"2018-08-01"
+"79935","The Story of Film: An Odyssey",\N,"2011-12-03"
+"80052","The 100",\N,"2019-08-06"
+"81723","Taxi Brooklyn",\N,"2014-05-12"
+"80311","Hit the Floor",\N,"2013-07-22"
+"81046","Almost Human",\N,"2014-03-03"
+"81252","Black Box",\N,"2014-07-24"
+"81586","Der Laden",\N,"1998-11-24"
+"81209","Durham County",\N,"2009-08-17"
+"81507","Nachtschicht",\N,"2018-11-12"
+"81530","Renegade",\N,"1997-04-04"
+"81240","Dracula",\N,"2014-01-24"
+"81499","Das Traumhotel",\N,"2014-10-31"
+"81185","Devious Maids",\N,"2016-08-08"
+"81027","The Hard Times Of RJ Berger",\N,"2011-05-30"
+"80907","Retired at 35",\N,"2011-03-23"
+"80831","Once Upon A Time In Wonderland",\N,"2014-04-03"
+"80558","Played",\N,"2013-12-19"
+"80490","Mom",\N,"2019-05-09"
+"84221","Gotham",\N,"2019-04-25"
+"85664","Kommissar Marthaler",\N,"2017-03-17"
+"83592","Wendell & Vinnie",\N,"2013-09-22"
+"83881","The Mysteries of Laura",\N,"2016-03-02"
+"83324","Sam & Cat",\N,"2014-07-17"
+"95139","Der Zürich-Krimi",\N,"2019-03-07"
+"84244","Profilage",\N,"2018-12-29"
+"90603","The Team",\N,"2015-03-21"
+"81884","Der Kommissar und das Meer",\N,"2018-12-15"
+"81912","Isabel",\N,"2014-11-24"
+"100052","Neandertaler",\N,"2016-09-21"
+"82053","About A Boy",\N,"2015-07-20"
+"82106","Spreewaldkrimi",\N,"2018-11-26"
+"82116","Adam Looking for Eve",\N,\N
+"88384","Carta a Eva",\N,"2012-09-28"
+"84896","DCI Banks",\N,"2016-09-28"
+"84682","Law & Order: Trial by Jury",\N,"2006-01-26"
+"82587","Scarlett",\N,"1994-11-17"
+"84555","Helden der Hauptstadt",\N,"2015-02-27"
+"82436","Friends with Better Lives",\N,"2014-12-30"
+"83893","Stalker",\N,"2015-05-18"
+"83365","See Dad Run",\N,"2014-01-19"
+"84208","The Flash",\N,"2019-05-14"
+"92431","Candice Renoir",\N,"2018-04-24"
+"83618","Every Witch Way",\N,"2015-07-30"
+"82948","Jesse Stone",\N,"2015-10-18"
+"90825","Henry Danger",\N,"2018-10-20"
+"83800","Instant Mom",\N,"2015-12-19"
+"84092","Atlantis",\N,"2015-05-16"
+"83429","The Thundermans",\N,"2018-05-25"
+"83052","Crossbones",\N,"2014-08-02"
+"83485","Hunted",\N,"2012-11-22"
+"84388","Alles außer Mord",\N,"1996-08-28"
+"87067","Shasta McNasty",\N,"2000-08-01"
+"83540","Kommissarin Heller",\N,"2019-02-16"
+"83557","Inspector Morse",\N,"1987-01-01"
+"84504","Reign",\N,"2017-06-16"
+"83990","Scorpion",\N,"2018-04-16"
+"84076","Forever",\N,"2015-05-05"
+"84160","The Tomorrow People",\N,"2014-05-05"
+"97777","Sechserpack",\N,"2010-06-01"
+"84589","Melrose Place",\N,"2010-04-13"
+"87480","Resurrection",\N,"2015-01-25"
+"94386","Karl der Große",\N,"2013-04-20"
+"90412","Einfach Rosa",\N,"2016-02-19"
+"86737","Fjällbackamorden",\N,"2013-10-23"
+"84732","CSI: Cyber",\N,"2016-03-13"
+"87803","Unter anderen Umständen",\N,"2019-03-18"
+"85107","Block B - Unter Arrest",\N,\N
+"89303","Jana und der Buschpilot",\N,"2015-09-20"
+"85228","Cedar Cove",\N,"2015-09-26"
+"89347","Nord Nord Mord",\N,"2019-04-29"
+"88673","Helen Dorn",\N,"2019-02-09"
+"88677","Nymfit",\N,"2013-12-08"
+"86850","Remedy",\N,"2015-05-19"
+"97052","Ballers",\N,"2019-10-13"
+"90553","Zorn",\N,"2017-06-01"
+"86931","Outlander",\N,"2019-01-27"
+"96853","Alles Klara",\N,"2017-05-16"
+"94105","Rectify",\N,"2015-08-13"
+"88193","Jane the Virgin",\N,"2018-04-20"
+"95471","Tyrant",\N,"2016-09-07"
+"89301","Spuren des Bösen",\N,"2019-08-25"
+"94692","Amerikas Naturwunder",\N,"2015-05-27"
+"90561","Saving Grace",\N,"2010-06-21"
+"86672","Kung Fu",\N,"1975-04-26"
+"96526","That’s Life",\N,"2005-02-19"
+"88800","Kung Fu – The Legend Continues",\N,"1997-01-01"
+"102229","The Other Kingdom",\N,"2016-05-15"
+"96992","At Home with Julia",\N,"2011-09-28"
+"86602","Shaky Ground",\N,"1993-05-23"
+"98380","The Flash",\N,"1991-05-18"
+"92040","World Without End",\N,"2012-10-16"
+"96697","Dresden Mord",\N,"2016-06-04"
+"90628","Ice Loves Coco",\N,"2012-04-29"
+"88627","München Mord",\N,"2019-09-21"
+"93178","Hotel Heidelberg",\N,"2019-05-31"
+"96351","Das Amt",\N,"1998-03-06"
+"94412","Tut",\N,"2015-07-21"
+"87342","Twisted",\N,"2014-04-01"
+"87707","Reckless",\N,"2014-09-13"
+"89623","Arne Dahl",\N,"2015-04-12"
+"91929","Unser Traum von Kanada",\N,"2016-01-15"
+"85493","Münchner Geschichten",\N,"1974-11-26"
+"85472","NCIS: New Orleans",\N,"2019-05-14"
+"90054","Chicago P.D.",\N,"2019-05-22"
+"86182","The Librarians","86181","2015-12-27"
+"92389","The Odd Couple",\N,"2017-01-30"
+"85195","Faking It",\N,"2016-05-17"
+"87856","Empire",\N,"2017-05-24"
+"87697","Stralsund",\N,"2019-11-23"
+"91398","Hawaii Five-0",\N,"1975-01-07"
+"88006","Dads",\N,"2014-07-16"
+"89892","Undateable",\N,"2016-01-29"
+"89000","Any Day Now",\N,"2002-03-10"
+"95164","Dig",\N,"2015-05-07"
+"102209","Modus",\N,"2015-10-14"
+"92893","A Touch of Grace",\N,"1973-04-21"
+"90407","Schwarzach 23",\N,"2018-04-30"
+"90642","Guntucky",\N,"2013-05-19"
+"85717","How to Get Away with Murder",\N,"2019-02-28"
+"86360","Backstrom",\N,"2015-04-30"
+"96211","SK Kölsch",\N,"2006-08-16"
+"92103","The Bridge",\N,"2014-10-01"
+"87425","Extant",\N,"2015-09-09"
+"101264","Der Island-Krimi",\N,"2016-11-03"
+"89497","Crisis",\N,"2014-06-21"
+"94726","Prime Suspect",\N,"2006-11-12"
+"86211","Les Mystères de l'Amour",\N,"2011-02-12"
+"88232","Those Who Kill",\N,"2014-05-18"
+"88367","Hinterland",\N,"2015-10-25"
+"85206","Pulling",\N,\N
+"84950","Friesland",\N,"2019-12-14"
+"89921","Inspektor Jury",\N,"2018-02-21"
+"90523","Beck",\N,"2018-04-07"
+"101305","Mike Hammer","112224","1987-05-13"
+"88373","Nord bei Nordwest",\N,"2019-01-10"
+"91315","Sirens",\N,"2015-04-14"
+"88772","Reiff für die Insel",\N,"2015-10-23"
+"87173","Mord in bester Gesellschaft",\N,"2017-04-20"
+"87152","Der Bulle und das Landei",\N,"2016-04-21"
+"100221","The Deep",\N,"2010-08-31"
+"87101","Blond: Eva Blond!",\N,"2006-09-06"
+"88966","Der Staatsanwalt",\N,"2019-03-01"
+"90078","Frauenherzen",\N,"2015-10-15"
+"96745","Banshee",\N,"2016-05-20"
+"88217","You're the Worst",\N,"2019-04-03"
+"89110","Battle Creek",\N,"2015-05-24"
+"90043","The Night Shift",\N,"2016-08-31"
+"87653","Street Hawk",\N,"1985-05-16"
+"88641","The Strain",\N,"2017-09-17"
+"99858","Trophy Wife",\N,"2014-05-13"
+"94381","Hubert und Staller",\N,"2019-12-11"
+"93929","Limitless","103500","2016-04-26"
+"95157","Sanford and Son",\N,\N
+"98295","Father Brown",\N,"2018-01-12"
+"90125","The Player",\N,"2015-11-19"
+"90665","Assaktion",\N,\N
+"90759","Die Diplomatin",\N,"2019-05-04"
+"98697","Secret Lives",\N,"2003-09-29"
+"96049","Rush Hour","5173","2016-08-20"
+"92664","Roots",\N,\N
+"95934","Secrets and Lies",\N,"2016-08-22"
+"97901","Club der roten Bänder",\N,"2017-12-11"
+"94624","WITS Academy",\N,"2015-10-30"
+"90092","Beyond the Break",\N,"2007-03-23"
+"89993","Team Knight Rider",\N,"1998-05-18"
+"94356","The Divergent Series: Ascendant","93103",\N
+"92780","Der Bozen-Krimi",\N,"2019-09-26"
+"93286","Salem",\N,"2017-01-25"
+"93122","Helix",\N,"2015-04-10"
+"94422","Lena Lorenz",\N,"2019-08-28"
+"100117","Containment",\N,"2016-07-19"
+"93251","Code Black",\N,"2018-07-18"
+"93826","Morden i Sandhamn",\N,"2018-04-12"
+"98655","The Supernatural Enthusiasts Club",\N,"2014-07-25"
+"94705","Mitteldeutschland von oben",\N,"2015-10-01"
+"101356","Criminal Minds: Beyond Borders",\N,"2017-05-17"
+"94463","The Interceptor",\N,"2015-07-29"
+"100235","Duga mracna noc",\N,"2005-05-01"
+"98515","Welcome to Sweetie Pie's",\N,"2016-01-02"
+"98092","Weibsbilder",\N,"2006-05-12"
+"97534","Call the Midwife",\N,\N
+"100217","Timeless",\N,"2017-02-20"
+"98669","How to Rock",\N,"2012-12-08"
+"96861","SOKO Stuttgart","124189","2019-12-12"
+"96786","Brickleberry",\N,"2015-04-14"
+"97360","Constantine",\N,\N
+"97303","Comanche Moon",\N,"2008-01-16"
+"96720","In aller Freundschaft - Die jungen Ärzte","116880","2019-12-19"
+"100076","The Magicians",\N,"2018-04-04"
+"97677","Jack Taylor",\N,"2016-12-01"
+"94237","Tjockare än vatten",\N,"2014-03-31"
+"96819","Der Elefant - Mord verjährt nie",\N,"2006-01-10"
+"92921","The New Dick Van Dyke Show",\N,"1973-03-25"
+"99555","Minority Report","102091","2015-11-30"
+"93897","Mutig in die neuen Zeiten",\N,"2008-05-01"
+"93614","Der Urbino-Krimi",\N,"2016-03-24"
+"93740","Ku'damm 56","113168","2016-03-23"
+"95277","Nicky, Ricky, Dicky & Dawn",\N,"2018-02-24"
+"90602","Galileo",\N,"1998-11-30"
+"92525","Downton Abbey",\N,"2015-12-25"
+"92527","Il giovane Montalbano",\N,"2015-09-28"
+"94091","The Bletchley Circle",\N,"2014-01-27"
+"99164","Section de recherches",\N,"2015-03-07"
+"99283","Ein Fall für den Fuchs",\N,"2007-01-01"
+"99048","Humans",\N,"2016-12-18"
+"93641","Letzte Spur Berlin",\N,"2019-05-24"
+"94180","Show Me a Hero",\N,"2015-08-30"
+"99509","The American West",\N,"2016-07-02"
+"93388","Les Synaudes",\N,"2010-05-23"
+"97710","Earthflight",\N,"2012-01-29"
+"97950","Underemployed",\N,"2013-01-12"
+"92025","Pawn Stars",\N,"2011-11-28"
+"92028","That Girl",\N,"1970-03-26"
+"97685","Geld.Macht.Liebe",\N,"2009-07-06"
+"91369","The Royals",\N,"2018-05-13"
+"99988","School of Rock",\N,"2017-01-28"
+"93850","Miss Fisher's Murder Mysteries",\N,"2015-06-26"
+"93892","P'tit Quinquin",\N,"2014-09-25"
+"92450","Wolf Hall",\N,"2015-02-25"
+"91846","Martin Beck",\N,"1994-07-01"
+"92564","Varg Veum",\N,"2012-03-30"
+"95885","Bettys Diagnose",\N,"2019-12-20"
+"93345","The Courtship of Eddie's Father",\N,\N
+"92487","The Politician's Husband",\N,"2013-05-09"
+"94031","Vinyl",\N,"2016-04-17"
+"93365","Altes Geld",\N,"2015-03-27"
+"95242","The Phantom",\N,"2009-12-23"
+"90495","Brooklyn Nine-Nine",\N,"2019-05-16"
+"93507","The Night Manager",\N,"2016-03-27"
+"94555","Emma nach Mitternacht",\N,"2016-06-08"
+"92183","Der Athen-Krimi",\N,"2016-01-28"
+"95857","The Shannara Chronicles",\N,"2017-11-22"
+"91288","Thundarr the Barbarian",\N,\N
+"93411","1864",\N,"2014-11-30"
+"91890","Zoo",\N,"2017-09-21"
+"90700","Die Toten vom Bodensee",\N,"2019-10-09"
+"100228","Tito",\N,"2010-01-01"
+"95949","Schnell ermittelt",\N,"2018-10-08"
+"96492","Der Bestatter",\N,"2015-02-10"
+"96261","Chasing Life",\N,"2014-07-22"
+"95790","Safe House",\N,"2015-05-11"
+"94161","DC's Legends of Tomorrow",\N,"2018-04-09"
+"90687","Intruders",\N,"2014-10-11"
+"100126","Deadbeat",\N,"2016-04-20"
+"96656","Herzensbrecher - Vater von vier Söhnen",\N,"2013-12-20"
+"98182","Verbrechen nach Ferdinand von Schirach",\N,"2013-04-14"
+"90958","The Fall",\N,"2013-05-13"
+"97442","Les Témoins",\N,"2014-12-06"
+"90674","American Restoration",\N,"2013-06-18"
+"90582","Chosen",\N,"2013-01-17"
+"94277","Supergirl",\N,"2019-05-19"
+"91018","Z Nation",\N,"2018-12-28"
+"91189","Ben and Kate",\N,"2013-03-18"
+"93404","Gottlos - Warum Menschen töten",\N,"2016-02-22"
+"100301","Inside Amy Schumer",\N,"2016-06-16"
+"99427","Young Hercules",\N,"1999-05-14"
+"96267","Australiens Nationalparks",\N,"2012-10-26"
+"95978","Die Kirche bleibt im Dorf","121357","2018-01-01"
+"93393","BoOzy' OS",\N,"2009-07-31"
+"99747","Mordshunger - Verbrechen und andere Delikatessen",\N,"2019-02-13"
+"91633","Orange Is the New Black",\N,"2016-06-17"
+"91564","Alles Verbrecher",\N,"2015-02-26"
+"96730","Der Rhein von oben",\N,"2013-03-15"
+"91436","Jessica Jones","113206","2015-11-20"
+"98968","Star-Crossed",\N,"2014-05-12"
+"90204","Kommissar Dupin",\N,"2019-04-11"
+"101079","Plötzlich Papa - Einspruch abgelehnt!",\N,"2012-12-13"
+"95892","Zwei im Wilden Westen",\N,"2016-04-29"
+"92418","Warren Flamel: la malédiction de l’Immortalité",\N,"2014-05-15"
+"93947","Shetland",\N,"2016-03-04"
+"92238","Ano Hi Mita Hana no Namae o Bokutachi wa Shiranai",\N,\N
+"97821","Dates",\N,"2013-07-03"
+"101963","Marie fängt Feuer",\N,"2019-11-17"
+"95604","From Dusk Till Dawn: The Series","10924","2016-11-01"
+"97694","Die Alpen von oben",\N,"2012-09-21"
+"96644","Blindspot",\N,"2019-05-31"
+"96708","Twentysomething",\N,"2013-08-01"
+"98878","12 Monkeys",\N,"2016-07-18"
+"94131","Heroes Reborn","102680","2016-01-21"
+"97609","Fresh Off the Boat",\N,"2019-04-12"
+"96686","Route 66",\N,"2012-04-04"
+"94767","Die Chefin",\N,"2019-09-17"
+"97883","The Paradise",\N,\N
+"97558","Flemming",\N,"2011-05-13"
+"97846","Josephine Klick - Allein unter Cops",\N,"2015-09-29"
+"91752","Maria Wern",\N,"2019-01-06"
+"94646","100 Things to Do Before High School",\N,"2016-02-27"
+"100485","American Odyssey",\N,"2015-06-28"
+"93583","Peaky Blinders",\N,"2019-09-22"
+"100204","Crazy Ex-Girlfriend",\N,"2019-04-05"
+"93482","Der Tel-Aviv-Krimi",\N,"2017-11-30"
+"96242","Case Histories",\N,"2013-06-02"
+"93423","Waking the Dead",\N,"2004-08-15"
+"92336","Bella and the Bulldogs",\N,"2016-06-25"
+"97722","Lena Fauch",\N,"2016-09-05"
+"91637","Branded",\N,\N
+"93996","Finding Carter",\N,"2015-11-17"
+"94577","The Messengers",\N,"2015-07-24"
+"91385","Deutschland 83",\N,"2015-08-05"
+"91421","Daredevil","113206","2016-03-18"
+"91332","Die Füchsin",\N,"2019-10-17"
+"97661","Krupp - Eine deutsche Familie",\N,"2009-03-25"
+"99921","Die Eifelpraxis",\N,"2019-08-30"
+"98132","Über die Grenze",\N,"2017-12-14"
+"96997","Hammer & Sichl",\N,"2016-06-17"
+"96913","Aber Vati!",\N,"1979-08-25"
+"95086","Dicte",\N,"2014-11-19"
+"95928","The Goldbergs",\N,"2019-05-08"
+"97800","R.I.S. - Die Sprache der Toten",\N,"2008-02-07"
+"97186","Kanadas Nationalparks",\N,"2016-06-03"
+"95443","Den fördömde",\N,"2013-12-26"
+"100360","Rabenmütter",\N,"2016-10-14"
+"99531","Der Kroatien-Krimi",\N,"2019-03-21"
+"96975","Mistresses",\N,"2015-09-03"
+"100664","Shades of Blue",\N,"2016-03-31"
+"96652","Shock and Awe: The Story of Electricity",\N,"2011-10-20"
+"97256","Vier Frauen und ein Todesfall",\N,"2019-11-26"
+"96645","Gilligan’s Island",\N,\N
+"98637","Quantico",\N,"2018-08-03"
+"97192","Le peuple des océans",\N,"2011-09-25"
+"101493","NYC 22",\N,"2012-08-11"
+"102075","Frikjent",\N,"2016-12-15"
+"101182","Grandfathered",\N,"2016-03-08"
+"102634","Plebs",\N,"2016-05-16"
+"102367","Wolfsland",\N,"2019-12-05"
+"102561","Code Lyoko",\N,"2017-01-01"
+"101526","Weinberg",\N,"2015-11-10"
+"102270","The Night Of",\N,"2016-08-28"
+"101561","Into the Badlands",\N,"2017-05-21"
+"101674","A Year in the Life",\N,"1986-12-17"
+"101680","C.O.P.S.",\N,"1988-11-21"
+"101710","Rocket Power",\N,\N
+"101712","Brave Star",\N,\N
+"101753","Solo für Weiss",\N,"2018-09-03"
+"101792","Game Shakers",\N,"2016-10-08"
+"101829","Tatau",\N,"2015-05-17"
+"101861","Stockinger",\N,"1997-02-05"
+"101906","Madam Secretary",\N,"2018-05-20"
+"115517","Vår tid är nu",\N,"2018-12-03"
+"105314","The Hunger",\N,"2000-03-05"
+"107231","American Housewife",\N,"2019-05-21"
+"108269","13 Reasons Why",\N,"2017-03-31"
+"106476","Les beaux malaises",\N,"2014-02-05"
+"103323","Magda macht das schon!",\N,"2019-03-07"
+"119068","Blochin - Die Lebenden und die Toten",\N,"2015-09-27"
+"115644","Take Two",\N,"2018-09-13"
+"117105","Parfum",\N,"2018-11-28"
+"111024","Superstore",\N,"2019-05-16"
+"105232","Ransom",\N,"2019-05-25"
+"106406","The Five",\N,"2016-05-13"
+"104756","Nicht tot zu kriegen",\N,"2017-03-30"
+"117150","Der Amsterdam-Krimi",\N,"2018-11-29"
+"109378","Speechless",\N,"2019-04-12"
+"106418","Praxis mit Meerblick",\N,"2019-03-22"
+"106739","Olive Kitteridge",\N,"2014-11-03"
+"105630","Love, Nina",\N,"2016-06-17"
+"104679","Jane Eyre",\N,"2006-10-15"
+"105264","Narcos",\N,\N
+"102748","Quirke",\N,"2014-03-02"
+"112909","Christine. Perfekt war gestern!",\N,"2013-10-17"
+"106395","Les Petits Meurtres d'Agatha Christie",\N,"2018-09-07"
+"105661","The Last Ship",\N,"2015-09-06"
+"110240","Tod im Internat",\N,"2017-10-11"
+"105140","Rosewood",\N,"2017-04-28"
+"102776","The Muppets",\N,"2016-03-01"
+"116828","Schwartz & Schwartz",\N,"2019-03-23"
+"106663","24: Legacy",\N,"2017-04-17"
+"117769","Wilde Schlösser",\N,"2017-11-03"
+"118577","Fortitude",\N,"2018-12-27"
+"103601","Lucifer",\N,"2018-05-28"
+"113842","The Red Road",\N,"2015-05-07"
+"105595","Schwarz Rot Gold",\N,"1996-07-17"
+"102817","Irene Huss",\N,"2011-12-07"
+"112138","The Lizzie Borden Chronicles",\N,"2015-05-24"
+"102870","Mörderisches Tal - Pregau",\N,"2016-10-04"
+"112110","Sankt Maik",\N,"2019-07-16"
+"108158","Unterwegs in Kanada",\N,"2010-02-10"
+"113749","Daheim in den Bergen",\N,"2019-05-03"
+"103204","Johan Falk",\N,"2015-08-06"
+"104135","It Takes a Thief",\N,"1968-01-16"
+"118363","Rocco Schiavone",\N,"2016-12-07"
+"115851","Die Heiland - Wir sind Anwalt",\N,"2018-10-09"
+"105297","MacGyver","81495","2019-05-10"
+"112304","Transformers: Robots in Disguise","8650","2015-03-14"
+"112188","The Punisher","113206","2017-11-17"
+"113328","Der Lissabon-Krimi",\N,"2019-04-04"
+"109858","Schuld nach Ferdinand von Schirach",\N,"2019-10-04"
+"112562","Superior Donuts",\N,"2018-05-14"
+"109039","The Blacklist: Redemption",\N,"2017-04-13"
+"108391","Global Gladiators",\N,"2017-07-06"
+"109266","Les hommes de l'ombre",\N,"2012-02-08"
+"116651","Baskets",\N,"2018-03-27"
+"111587","Rebecka Martinsson",\N,"2017-04-19"
+"116211","Instinct",\N,"2019-08-25"
+"104348","Liebling Kreuzberg",\N,"1986-03-24"
+"103659","Lethal Weapon","945","2019-02-26"
+"108281","The Great Train Robbery",\N,"2013-12-19"
+"114354","Falk",\N,"2018-06-19"
+"109774","Damien",\N,"2016-05-09"
+"115128","Station 19",\N,"2019-05-16"
+"117417","Das Boot",\N,"2018-12-14"
+"112451","Taboo",\N,"2017-02-25"
+"103516","Maigret",\N,"2017-12-24"
+"106534","Ash vs. Evil Dead","1960","2018-04-29"
+"107132","The Fosters",\N,"2014-03-24"
+"110341","Das Verschwinden",\N,"2017-10-31"
+"106317","Resident Advisors",\N,"2015-04-09"
+"109317","Medici: Masters of Florence",\N,"2016-11-08"
+"108041","Jo",\N,"2013-03-07"
+"112070","Trakehnerblut",\N,\N
+"118156","Il miracolo",\N,"2018-05-29"
+"103630","The Musketeers",\N,"2015-01-30"
+"104159","Der Cop und der Snob",\N,"2012-11-27"
+"105563","The Affair",\N,"2014-10-26"
+"113208","Electric Dreams",\N,"2018-01-12"
+"119276","Gipfelstürmer - Das Berginternat",\N,"2019-10-17"
+"111902","Frequency",\N,"2017-01-25"
+"117848","Monuments éternels",\N,"2015-04-25"
+"117134","The First",\N,"2018-09-14"
+"104411","Ófærð",\N,\N
+"104595","Graceland",\N,"2015-09-17"
+"105758","Marvel’s Luke Cage","113206",\N
+"106779","Inspector George Gently",\N,"2012-09-16"
+"107542","Hunter Street",\N,"2017-03-16"
+"103253","Planet Earth II",\N,"2017-01-01"
+"102986","Earth: Final Conflict",\N,"2002-05-13"
+"112920","The Man from U.N.C.L.E.",\N,\N
+"106155","The Grinder",\N,"2016-05-10"
+"117044","4 Blocks",\N,"2019-12-12"
+"109665","Marry Me",\N,"2015-05-14"
+"111063","Batman","263","1968-03-14"
+"117081","Side om side",\N,"2013-09-14"
+"108008","Man with a Plan",\N,"2017-05-15"
+"113530","Imposters",\N,"2018-06-07"
+"115788","Kunlun Fight",\N,"2019-02-24"
+"118089","Partners in Crime",\N,"2015-08-16"
+"104033","Triple Ex",\N,"2017-03-02"
+"104316","Agatha Raisin",\N,"2019-01-28"
+"108730","Bull",\N,"2019-05-13"
+"107625","The Handmaid's Tale",\N,"2018-07-11"
+"103050","Ride",\N,"2016-12-20"
+"103086","Shooter",\N,"2016-12-13"
+"103103","Westworld",\N,"2018-06-24"
+"105190","Die Spezialisten - Im Namen der Opfer",\N,"2019-04-24"
+"113281","Jenny - echt gerecht!",\N,"2019-09-05"
+"104793","Fear the Walking Dead",\N,"2017-10-15"
+"118538","Meine wunderbare Familie",\N,"2010-02-07"
+"103692","Super Fun Night",\N,"2014-02-19"
+"103120","24: Live Another Day",\N,"2014-05-12"
+"103133","Ohnsorg-Theater",\N,"1971-06-26"
+"117123","Spiegel TV",\N,\N
+"107765","Neu in unserer Familie",\N,"2016-10-03"
+"110960","The Orville",\N,"2019-04-25"
+"103367","Mars",\N,"2016-12-19"
+"106179","The Last Man on Earth",\N,"2018-05-06"
+"103289","Einstein",\N,"2019-03-17"
+"104113","Familie Undercover",\N,"2013-02-14"
+"103196","Fais pas ci, fais pas ça",\N,"2017-02-22"
+"119319","Magnum P.I.",\N,"2019-04-01"
+"112301","Transformers: Rescue Bots","8650","2011-12-17"
+"112661","Little People, Big World",\N,"2006-03-04"
+"117456","Der Prag-Krimi",\N,"2018-12-13"
+"107205","Schillerstraße",\N,"2010-03-26"
+"118438","Magnus",\N,"2019-02-02"
+"115350","The Good Doctor",\N,"2019-11-25"
+"107330","800 Words",\N,"2015-09-22"
+"111233","A.D. The Bible Continues",\N,"2015-06-21"
+"104541","Charles in Charge",\N,\N
+"104022","Professor T.",\N,"2019-03-26"
+"107549","Hoff the Record",\N,"2016-05-20"
+"104207","The Catch",\N,"2017-04-06"
+"104201","Mr. Robot",\N,"2017-11-01"
+"119208","8 Tage",\N,"2019-03-22"
+"109878","Babylon Berlin",\N,"2017-11-03"
+"105543","Stranger Things",\N,"2016-07-15"
+"109800","Call The Boys - 4 Männer für gewisse Stunden",\N,"2017-09-11"
+"117190","Shut Eye",\N,"2017-12-06"
+"114122","Patrick Melrose",\N,"2018-06-09"
+"119089","Shadowhunters: The Mortal Instruments",\N,"2016-04-05"
+"109463","Rhoda",\N,\N
+"106206","Flikken Maastricht",\N,"2010-01-22"
+"118124","Der Bulle und das Biest",\N,"2019-03-10"
+"111535","Neues aus Büttenwarder",\N,"2016-04-16"
+"119464","Nachtschwestern",\N,"2019-07-16"
+"113684","Lifelines",\N,"2018-06-12"
+"116518","9-1-1",\N,"2019-12-02"
+"108087","Wentworth",\N,"2016-07-26"
+"108708","You Are Wanted",\N,"2017-03-17"
+"104672","Wayward Pines",\N,"2015-05-21"
+"112535","Famous in Love",\N,"2017-06-13"
+"108794","Kevin Can Wait",\N,"2016-10-10"
+"109914","Paris enquêtes criminelles",\N,"2008-11-06"
+"114064","Midnight Sun",\N,"2016-10-30"
+"118886","Maroni, les fantômes du fleuve",\N,"2018-01-25"
+"110694","Slasher",\N,"2017-10-17"
+"113063","Smart Devils",\N,\N
+"106581","Chicago Med",\N,"2019-10-09"
+"117346","Meiberger - Im Kopf des Täters",\N,"2019-12-17"
+"107866","Mannix",\N,\N
+"109763","Zarah - Wilde Jahre",\N,"2017-10-19"
+"109215","Life Story",\N,"2015-01-01"
+"111508","Ironside",\N,\N
+"116445","A.P. Bio",\N,"2019-06-13"
+"103833","Kaamelott",\N,"2005-01-03"
+"112159","Beste Schwestern",\N,"2018-03-08"
+"114984","Younger",\N,"2018-08-28"
+"118004","FBI",\N,"2019-05-14"
+"117031","Milk & Honey",\N,"2018-12-12"
+"108664","Young Sheldon",\N,"2019-11-07"
+"109788","Sister, Sister",\N,\N
+"109142","Outcast",\N,"2016-08-12"
+"105389","Scream Queens",\N,"2016-12-20"
+"117781","Wildest Latin America",\N,"2012-07-03"
+"115863","Alpha Centauri",\N,\N
+"114748","FBI: The Untold Stories",\N,\N
+"114946","Wild China",\N,"2008-06-15"
+"119015","Typisch Sophie",\N,"2006-05-15"
+"109363","The Good Place",\N,"2019-01-24"
+"114086","The Hollow Crown: The Wars of the Roses","112206","2016-05-21"
+"109038","The Fugitive",\N,\N
+"116117","Greyzone",\N,"2018-04-29"
+"110450","Der Barcelona-Krimi",\N,"2017-11-09"
+"105778","Africa",\N,"2013-02-06"
+"105283","Charité",\N,"2017-04-18"
+"105020","Beau Séjour",\N,"2017-03-05"
+"104909","Forensic Files",\N,\N
+"110495","Wings",\N,\N
+"109433","Freunde für immer - Das Leben ist rund",\N,"2006-06-19"
+"105533","The Michael Richards Show",\N,"2000-12-19"
+"111225","Mona M. - Mit den Waffen einer Frau",\N,"1996-02-21"
+"119508","Merz gegen Merz",\N,"2019-04-22"
+"119161","Legends",\N,"2015-12-28"
+"104910","Unter weißen Segeln",\N,"2006-03-24"
+"116174","Chicago Justice",\N,"2017-05-14"
+"108540","Männer! Alles auf Anfang",\N,"2015-02-26"
+"115862","Le dessous des cartes",\N,\N
+"104959","This Is Us",\N,"2019-11-19"
+"104979","The Coroner",\N,"2016-12-02"
+"107460","Doc meets Dorf",\N,"2013-10-17"
+"107360","A Moody Christmas",\N,"2012-10-31"
+"112945","Second Chance",\N,"2016-03-25"
+"113864","Un passo dal cielo",\N,"2015-03-16"
+"112067","Die Inselärztin",\N,"2019-01-11"
+"106560","The Missing",\N,"2014-12-16"
+"115652","Die Kumpel",\N,"2002-01-14"
+"110520","Bruder - Schwarze Macht",\N,"2017-11-19"
+"114099","The Spanish Princess","79488",\N
+"113413","Falco",\N,"2016-04-28"
+"105872","Unschuldig",\N,"2008-07-09"
+"111476","Blue Planet II",\N,"2018-01-01"
+"113500","The Real O'Neals",\N,"2016-05-24"
+"109952","Rush",\N,"2014-09-18"
+"106529","Honigfrauen",\N,"2017-05-07"
+"107473","American Crime",\N,"2016-02-24"
+"114629","Heldt",\N,"2019-12-18"
+"107695","Monday Mornings",\N,"2013-04-08"
+"105929","The Leftovers",\N,"2017-06-04"
+"105945","The Game",\N,"2009-05-15"
+"105977","The Boondocks",\N,"2008-03-23"
+"111928","Les quatre soeurs",\N,"2017-10-10"
+"108313","Gomorra",\N,"2017-12-22"
+"114090","The White Princess","79488","2017-06-04"
+"112171","Gone",\N,"2018-02-12"
+"112298","Transformers Prime","8650","2010-11-26"
+"106000","Computerman",\N,"2004-01-25"
+"106010","Gastown",\N,"2015-07-06"
+"106029","The Fifties",\N,"2016-07-21"
+"106036","Friend Me",\N,"2012-01-01"
+"106046","The Return of Jezebel James",\N,"2008-07-26"
+"106055","Kid Fitness",\N,"2007-06-24"
+"106084","Leap of Faith",\N,"2002-04-04"
+"114081","The Hollow Crown","112206","2012-07-21"
+"114256","Salvation",\N,"2017-09-20"
+"106871","The Mick",\N,"2018-04-03"
+"112086","Big Little Lies",\N,"2019-07-21"
+"117068","MARS:",\N,\N
+"115177","Conviction",\N,"2017-01-29"
+"118833","Der Pass",\N,"2019-02-15"
+"112608","Threesome",\N,"2011-10-31"
+"116315","Coincoin et les z'inhumains",\N,"2018-09-27"
+"118179","The Loud House",\N,"2016-05-06"
+"109416","Sekretärinnen - Überleben von 9 bis 5",\N,"2013-10-17"
+"110332","The Exorcist","12263","2017-12-15"
+"110193","Star",\N,"2018-12-05"
+"109806","Bad Cop - kriminell gut",\N,"2017-11-16"
+"111953","TANNBACH - Schicksal eines Dorfes",\N,"2018-01-11"
+"113096","Tatverdacht - Team Frankfurt ermittelt",\N,"2018-04-19"
+"116737","The Resident",\N,"2019-05-06"
+"112669","07 zgłoś się",\N,"1987-01-01"
+"109472","Le Bureau des légendes",\N,\N
+"109183","Olympus",\N,"2015-07-02"
+"113164","Ku'damm 59","113168","2018-03-21"
+"112798","Bad Banks",\N,"2018-03-02"
+"109307","Die Kanzlei",\N,"2019-01-29"
+"108489","Pure Genius",\N,"2017-01-26"
+"118862","Das Institut - Oase des Scheiterns",\N,"2018-02-15"
+"112807","Nix Festes",\N,"2018-03-20"
+"114330","Lebowitz contre Lebowitz",\N,"2017-11-09"
+"119794","18 - Allein unter Mädchen",\N,"2007-08-12"
+"111826","Back in the Game",\N,"2014-02-23"
+"110651","Lobbyistin",\N,"2017-12-20"
+"119452","Jägarna","119451","2018-12-12"
+"116484","Superhero Landing",\N,"2020-01-01"
+"109648","Endeavour",\N,"2019-03-03"
+"112261","Beck is back!",\N,"2019-04-16"
+"109710","Das Pubertier - Die Serie",\N,"2017-10-12"
+"109718","Webster",\N,"1983-09-16"
+"114605","Suite 7",\N,"2011-01-27"
+"112761","Taken","86820","2017-05-01"
+"114957","Deception",\N,"2018-05-27"
+"110902","Kidnap and Ransom",\N,"2012-03-08"
+"119259","Sthlm Rekviem",\N,"2018-11-14"
+"111003","Hooten & the Lady",\N,"2016-11-04"
+"115750","Gogona Gareubnidan",\N,\N
+"112002","Aurore",\N,"2018-01-11"
+"116035","Il segreto del Sahara",\N,"1987-01-01"
+"113285","Coplan",\N,"1989-12-03"
+"116641","The Wonderful World of Disney",\N,\N
+"118349","New Amsterdam",\N,"2019-05-14"
+"112973","Liar",\N,"2017-10-16"
+"116822","Die Protokollantin",\N,"2018-11-10"
+"118917","Bella Germania",\N,"2019-03-13"
+"117926","UFO",\N,"1970-12-30"
+"114826","SEAL Team",\N,"2019-10-30"
+"119191","Pose",\N,"2018-06-24"
+"114941","Hotel",\N,"1983-10-05"
+"115482","Rogue",\N,"2017-05-24"
+"114861","The Tick",\N,"2019-04-05"
+"114875","Der Bergdoktor",\N,"1996-04-22"
+"116378","Hindafing",\N,"2019-11-14"
+"114885","The Deuce",\N,"2017-10-29"
+"118735","Siren",\N,"2018-05-24"
+"117144","Altered Carbon",\N,"2018-02-02"
+"119407","Kûsô tokusatsu shirîzu",\N,\N
+"118843","M - Eine Stadt sucht einen Mörder",\N,"2019-02-22"
+"118666","Jake and the Fatman",\N,\N
+"119295","Shakespeare & Hathaway: Private Investigators",\N,"2018-03-09"
+"116661","Maltese - Il romanzo del Commissario",\N,"2017-05-16"
+"116392","Dimension 404",\N,"2017-04-25"
+"118563","Die Klempnerin",\N,"2019-04-16"
+"116882","Team Alpin",\N,"2019-10-31"
+"118636","The Gifted","748","2019-02-26"
+"119847","Reiterhof Wildenstein",\N,"2019-05-17"
+"119684","Happy!",\N,"2018-01-31"
+"119704","Whiskey Cavalier",\N,"2019-05-22"
+"120690","BoJack Horseman",\N,"2016-07-22"
+"119991","Das Wichtigste im Leben",\N,"2019-07-03"
+"120194","Doctor Doctor",\N,"2018-10-08"
+"120354","Rentnercops",\N,"2017-03-08"
+"120125","Cheat",\N,"2019-03-14"
+"120062","Eichwald, MdB",\N,"2019-07-19"
+"120087","Charmed",\N,"2019-05-19"
+"120101","Zimmer mit Stall",\N,"2019-06-14"
+"120706","Wilde Ostsee",\N,"2017-09-20"
+"120608","The Brokenwood Mysteries",\N,"2014-10-19"
+"120629","Catch-22",\N,"2019-05-17"
+"120712","Sharp Objects",\N,"2018-08-26"
+"120567","F4LKENB3RG - Mord im Internat?",\N,"2019-07-29"
+"120837","Lynč",\N,"2018-12-10"
+"120861","Living Single",\N,\N
+"120893","Expedition Sternenhimmel",\N,"2017-09-01"
+"120972","No Activity",\N,"2018-11-22"
+"121184","Der Knastarzt",\N,"2014-05-15"
+"121724","Alex",\N,"2019-06-21"
+"125662","WaPo Bodensee",\N,"2019-04-16"
+"125234","Krypton",\N,"2019-08-14"
+"125583","Das Quartett",\N,"2019-10-12"
+"121090","The Marvelous Mrs. Maisel",\N,"2017-03-17"
+"124554","SOKO Hamburg","124189","2019-11-26"
+"125588","The Hot Zone",\N,"2019-05-29"
+"121344","Bulletproof",\N,"2018-06-19"
+"121360","Die Neue Zeit",\N,"2019-09-12"
+"121782","Jessie",\N,"2015-10-16"
+"121854","jerks.",\N,"2018-03-29"
+"122271","The Conners",\N,"2019-01-22"
+"122640","Unge lovende",\N,"2015-12-19"
+"122695","Rick and Morty",\N,"2017-10-01"
+"123081","Line of Duty",\N,"2019-05-05"
+"123140","Les secrets des animaux migrateurs",\N,"2019-09-19"
+"123220","Ghosted",\N,"2018-07-22"
+"124763","Private Eyes",\N,"2018-07-29"
+"125067","New Blood",\N,"2016-07-21"
+"125694","Bunk'd",\N,"2018-09-21"
+"123523","Star Trek: Discovery","151","2019-04-18"
+"123618","Dead End",\N,"2019-02-26"
+"125456","Gravity Falls",\N,"2016-02-15"
+"123773","Morden im Norden",\N,"2019-12-16"
+"124180","The Gulf",\N,"2019-09-30"
+"124188","SOKO Potsdam","124189","2019-11-25"
+"124252","A Million Little Things",\N,"2019-02-28"
+"124609","The Young Pope",\N,"2016-11-18"
+"124868","Victoria",\N,"2017-12-25"
+"125880","Homecoming",\N,"2018-11-02"
+"127234","Killing Eve",\N,"2018-05-27"
+"125893","Grantchester",\N,"2014-11-10"
+"127457","Im Knast",\N,"2017-08-10"
+"127908","Swedish Dicks",\N,"2018-01-21"
+"126248","Alfred Hitchcock Presents",\N,"1957-12-15"
+"127769","The Alienist",\N,"2018-03-26"
+"127707","BH90210",\N,"2019-09-11"
+"128607","Rampensau",\N,"2019-12-04"
+"127508","Rake",\N,"2014-06-27"
+"126282","Childhood's End",\N,"2015-12-16"
+"128469","Bonusfamilie",\N,"2019-12-04"
+"126052","Manifest",\N,"2019-02-18"
+"126118","Claws",\N,"2017-08-13"
+"126195","Der Irland-Krimi",\N,"2019-10-31"
+"127301","S.W.A.T.",\N,"2019-05-16"
+"127358","Vice Principals",\N,"2017-11-12"
+"126327","Monster",\N,"2017-10-30"
+"128663","Orphan Black",\N,"2014-05-02"
+"128791","The Body Farm",\N,"2011-10-18"
+"128381","Dr. Klein",\N,"2019-04-06"
+"127247","Vida perfecta",\N,"2019-10-18"
+"126564","Käthe und ich",\N,"2019-11-08"
+"128011","Bosch",\N,"2019-04-19"
+"127695","City on a Hill",\N,"2019-08-18"
+"126569","Legacies",\N,"2019-03-28"
+"126627","Die Lottosieger",\N,"2012-12-28"
+"128669","The Sinner",\N,"2017-09-20"
+"127257","Complications",\N,"2015-08-13"
+"126972","Succession",\N,"2019-10-13"
+"127568","DreamWorks Dragons",\N,"2018-02-16"
+"128463","FBI: Most Wanted",\N,\N
+"127122","Training Day",\N,"2017-05-20"
+"127168","Watchmen",\N,"2019-12-08"
+"128259","Secret Life of Predators",\N,"2013-09-27"
+"128935","The Bay",\N,"2019-04-24"

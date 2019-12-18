@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <title>  Help:DataDownload @ omdb</title>
+     
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta property="og:type" content="website" />
+	<meta content="  Help:DataDownload @ omdb" property="og:title" />
+          <meta property="og:image" content="http://www.omdb.org/images/layout/omdb-logo.png" />
+    	<meta property="og:description" />
+	<meta content="omdb" name="keywords" />
+	<meta name="description" />
+			
+  
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/images/layout/omdb-touch-icon.png">
+    <link rel="license" href="/content/Copyright" />
+    <link href='/opensearch.xml' rel='search' title='Suche in omdb' type='application/opensearchdescription+xml'>    
+    <link rel="alternate" hreflang="x-default" href="https://www.omdb.org/content/Help:DataDownload" /><link rel="alternate" hreflang="en" href="https://en.omdb.org/content/Help:DataDownload" /><link rel="alternate" hreflang="de" href="https://de.omdb.org/content/Help:DataDownload" /><link rel="alternate" hreflang="fr" href="https://fr.omdb.org/content/Help:DataDownload" /><link rel="alternate" hreflang="es" href="https://es.omdb.org/content/Help:DataDownload" />
+    <link href="https://www.omdb.org/stylesheets/app.css?1559210906" media="all" rel="stylesheet" type="text/css" />
+
+    <!--[if lte IE 6]>
+    <link href="https://www.omdb.org/stylesheets/iefix.css?1319773240" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if gt IE 6]>
+    <link href="https://www.omdb.org/stylesheets/iefix7.css?1319773240" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->          
+    
+    <link href="https://www.omdb.org/movie/latest.xml" rel="alternate" title="RSS" type="application/rss+xml" />
+  
+
+    
+
+  </head>
+
+  <body>
+    <div id="overlay">
+    </div>
+    <div id="lightbox" class="loading">
+      <div id="lbLoadMessage">
+      </div>
+    </div>
+	<div id="main-page-wrapper">
+      <div id="visual-page-wrapper">
+ 	    <div id="column-one">
+        <div class="logo">
+        <a title="omdb - Open Media Database" href="/"><p class="logo"><span>omdb</span></p></a>
+          <form action="/search" method="post">
+            <input accesskey="s" class="search" id="search_input" name="search[text]" title='Suche' placeholder='Suche'/><br />
+            <div id="search_auto_complete" class="auto-complete" style="left: 15px;"></div>
+            <span class="small"><a href="/movie/random" rel="nofollow">zu einem zufälligen Film</a></span>
+          </form>
+        </div>
+
+        <div class="left-box-wrapper" id="image-box-wrapper">
+          <div class="left-box" id="image-box">
+            <div id="new-movie">
+  <a class="button" href="#" onclick="try { box = new lightbox('/movie/new', false, true) } catch (e) {}; return false;">Neuen Film anlegen</a>
+</div>
+
+            
+                                </div>
+    </div>    
+    <div class="left-box-wrapper">
+      <div class="left-box">    
+        <div class="new-left" style="font-size:10pt;margin-left:1em;">
+        
+          <h4 style="margin-top:0px;">Neu auf DVD / Blu-ray bei amazon:</h4>
+          <ul class="small"><li><a href="https://www.amazon.de/Fast-Furious-Hobbs-Shaw-Blu-ray/dp/B07VBH5Y8N?SubscriptionId=AKIAJYNWJ4RSWRLHSIEQ&tag=omdb04-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07VBH5Y8N" target="_blank" rel="nofollow noopener"><i><b>&quot;Fast & Furious: Hobbs & Shaw&quot;</b></i></a><li><a href="https://www.amazon.de/Drachenz%C3%A4hmen-leicht-gemacht-guten-Zeiten/dp/B07YTCP72Q?SubscriptionId=AKIAJYNWJ4RSWRLHSIEQ&tag=omdb04-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07YTCP72Q" target="_blank" rel="nofollow noopener"><i><b>&quot;Drachenzähmen leicht gemacht: Die guten alten Zeiten&quot;</b></i></a><li><a href="https://www.amazon.de/Once-Upon-Time-Hollywood-Blu-ray/dp/B07WMJCG9W?SubscriptionId=AKIAJYNWJ4RSWRLHSIEQ&tag=omdb04-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07WMJCG9W" target="_blank" rel="nofollow noopener"><i><b>&quot;Once Upon A Time In… Hollywood&quot;</b></i></a><li><a href="https://www.amazon.de/Die-Eisk%C3%B6nigin-2/dp/B081P6D8Y2?SubscriptionId=AKIAJYNWJ4RSWRLHSIEQ&tag=omdb04-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B081P6D8Y2" target="_blank" rel="nofollow noopener"><i><b>&quot;Die Eiskönigin 2&quot;</b></i></a><li><a href="https://www.amazon.de/Downton-Abbey-Film-Hugh-Bonneville/dp/B07XW6SH5B?SubscriptionId=AKIAJYNWJ4RSWRLHSIEQ&tag=omdb04-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07XW6SH5B" target="_blank" rel="nofollow noopener"><i><b>&quot;Downton Abbey - Der Film&quot;</b></i></a><li><a href="https://www.amazon.de/gp/new-releases/dvd-de/?ie=UTF8&camp=1638&creative=19454&tag=omdb04-21&linkCode=ur2" target="_blank" rel="nofollow noopener"><i>mehr Neuerscheinungen</i></a></li></ul><div style="text-align:center"><a class="small" href="https://www.amazon.de/Once-Upon-Time-Hollywood-Blu-ray/dp/B07WMJCG9W?SubscriptionId=AKIAJYNWJ4RSWRLHSIEQ&tag=omdb04-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07WMJCG9W" target="_blank" rel="nofollow noopener"><img alt="DVD / Blu-ray bei amazon" src="/image/get_remote?url=https://images-eu.ssl-images-amazon.com/images/I/51fUbOSMEJL._SL160_.jpg"><p><i><b>&quot;Once Upon A Time In… Hollywood&quot;</b></i> bei Amazon</p></a></div>
+        </div>
+            			
+          </div>
+        </div>
+      </div>
+
+      <div id="column-two">
+        <div id="header">
+          <ul id="service-menu">
+            <li class="language"><a href="#">Deutsch</a><div id="language-select">
+              <a href="https://en.omdb.org/content/Help:DataDownload">Englisch</a><a href="https://fr.omdb.org/content/Help:DataDownload">Französisch</a><a href="https://es.omdb.org/content/Help:DataDownload">Spanisch</a></div>
+            </li>
+            <li><a href="/content/About">Über</a></li>
+            <li><a href="/content/Help">Hilfe</a></li>
+            <li><a href="/content/Imprint">Impressum</a></li>
+            <li><a href="/content/Contact">Kontakt</a></li>
+            
+              <li><a class="login" href="/account/login" onclick="try { box = new lightbox('/account/login', false, true) } catch (e) {}; return false;">Login</a></li>
+              <li><a href="https://www.omdb.org/account/signup">Registrieren</a></li>
+            
+          </ul>
+
+                
+          <ul id="main-menu">
+                          <li class="movies"><a href="/movie">Filme</a></li>
+                                      <li><a href="/series">Serien</a></li>
+            
+                                          <li><a href="/person">Personen</a></li>
+                                                    <li class="active"><a href="/encyclopedia">Enzyklopädie</a></li>
+                      </ul>
+        </div>
+        <div id="content-wrapper">
+                  <div class="title-row">
+		    <span id="note"></span>													 
+            
+            <div class="headline" id="headline">
+                <div class="parent-breadcrumb">&nbsp;</div>
+  <h2>Help:DataDownload</h2>
+  <div class="small">&nbsp;</div>
+
+            </div>
+          </div>
+
+          <div class="content-row">
+            
+            
+
+
+
+
+<div id="content" class="broadpage">
+  <ul id="content-menu" class="small-tabs">
+  
+    
+      <li class="active" id="views_tab_seite"><a href="/content/Help:DataDownload">Seite</a></li>
+    
+  
+</ul>
+
+
+
+      <p>Die omdb steht unter freier Lizenz. Deshalb ist es möglich, die Daten unter Berücksichtigung der <a href="/content/Copyright" class="strong" title="Inhalt: Lizenzbestimmungen">Lizenzbestimmungen</a> weiterzunutzen.</p>
+
+
+Eine omdb <span class="caps">API</span> existiert momentan noch nicht. Allerdings gibt es die folgenden Daten im <span class="caps">CSV</span>-Format. Sie erhalten jeweils Teile der Datenbank und werden normalerweise mehrmals täglich aktualisiert, allerdings nur, wenn sich an den Daten auch etwas geändert hat. Die Bezeichnung &#8220;movies&#8221; steht bei allen Angaben (außer der Datei &#8220;all_movies.csv&#8221;) auch für Serien bzw. deren Episoden.
+	<ul>
+	<li><a href="https://www.omdb.org/data/all_movies.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_movies.csv.bz2</a> (Felder: id, name, parent_id, date)</li>
+		<li><a href="https://www.omdb.org/data/all_series.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_series.csv.bz2</a> (Felder: id, name, parent_id, date)</li>
+		<li><a href="https://www.omdb.org/data/all_seasons.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_seasons.csv.bz2</a> (Felder: id, name, parent_id, date)</li>
+		<li><a href="https://www.omdb.org/data/all_episodes.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_episodes.csv.bz2</a> (Felder: id, name, parent_id, date, series_id)</li>
+		<li><a href="https://www.omdb.org/data/all_movieseries.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_movieseries.csv.bz2</a> (Felder: id, name, parent_id, date)</li>
+	</ul>
+
+
+	<ul>
+	<li><a href="https://www.omdb.org/data/all_people.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_people.csv.bz2</a> (Felder: id, name, birthday, deathday, gender)</li>
+		<li><a href="https://www.omdb.org/data/all_people_aliases.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_people_aliases.csv.bz2</a> (Felder: person_id, name)</li>
+		<li><a href="https://www.omdb.org/data/people_links.csv.bz2" class="external" target="_blank" rel="nofollow noopener">people_links.csv.bz2</a> (Felder: source, key, people_id, language_iso_639_1)</li>
+	</ul>
+
+
+	<ul>
+	<li><a href="https://www.omdb.org/data/all_casts.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_casts.csv.bz2</a> (Felder: movie_id, person_id, job_id, role, position)</li>
+		<li><a href="https://www.omdb.org/data/job_names.csv.bz2" class="external" target="_blank" rel="nofollow noopener">job_names.csv.bz2</a> (Felder: job_id, name, language_iso_639_1)</li>
+		<li><a href="https://www.omdb.org/data/all_characters.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_characters.csv.bz2</a> (Felder: id, name)</li>
+	</ul>
+
+
+	<ul>
+	<li><a href="https://www.omdb.org/data/movie_categories.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_categories.csv.bz2</a> (Felder: movie_id, category_id)</li>
+		<li><a href="https://www.omdb.org/data/movie_keywords.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_keywords.csv.bz2</a> (Felder: movie_id, category_id)</li>
+		<li><a href="https://www.omdb.org/data/category_names.csv.bz2" class="external" target="_blank" rel="nofollow noopener">category_names.csv.bz2</a> (Felder: category_id, name, language_iso_639_1)</li>
+		<li><a href="https://www.omdb.org/data/all_categories.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_categories.csv.bz2</a> (Felder: id, parent_id, root_id)</li>
+		<li><a href="https://www.omdb.org/data/trailers.csv.bz2" class="external" target="_blank" rel="nofollow noopener">trailers.csv.bz2</a> (Felder: trailer_id, key, movie_id, language_iso_639_1, source) &#8211; Trailer (Youtube, Vimeo)</li>
+		<li><a href="https://www.omdb.org/data/movie_links.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_links.csv.bz2</a> (Felder: source, key, movie_id, language_iso_639_1)</li>
+	</ul>
+
+
+	<ul>
+	<li><a href="https://www.omdb.org/data/image_ids.csv.bz2" class="external" target="_blank" rel="nofollow noopener">image_ids.csv.bz2</a> (Felder: image_id, object_id, object_type, image_version)</li>
+		<li><a href="https://www.omdb.org/data/image_licenses.csv.bz2" class="external" target="_blank" rel="nofollow noopener">image_licenses.csv.bz2</a> (Felder: image_id, source, license_id, author)</li>
+	</ul>
+
+
+	<ul>
+	<li><s><a href="https://www.omdb.org/data/all_movie_aliases.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_movie_aliases.csv.bz2</a> (Felder: movie_id, name, language_id, official_translation)</s> (deprecated)</li>
+		<li><a href="https://www.omdb.org/data/all_movie_aliases_iso.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_movie_aliases_iso.csv.bz2</a> (Felder: movie_id, name, language_iso_639_1, official_translation)</li>
+	</ul>
+
+
+	<ul>
+	<li><a href="https://www.omdb.org/data/all_votes.csv.bz2" class="external" target="_blank" rel="nofollow noopener">all_votes.csv.bz2</a> (Felder: movie_id, vote_average, votes_count)</li>
+		<li><a href="https://www.omdb.org/data/movie_languages.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_languages.csv.bz2</a> (Felder: movie_id, language_iso_639_1)</li>
+		<li><a href="https://www.omdb.org/data/movie_countries.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_countries.csv.bz2</a> (Felder: movie_id, country_code)</li>
+		<li><a href="https://www.omdb.org/data/movie_details.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_details.csv.bz2</a> (Felder: movie_id, runtime, budget, revenue, homepage)</li>
+		<li><a href="https://www.omdb.org/data/movie_references.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_references.csv.bz2</a> (Felder: movie_id, referenced_id, type)</li>
+		<li><a href="https://www.omdb.org/data/movie_abstracts_de.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_abstracts_de.csv.bz2</a> &#8211; nur deutsche Kurzbeschreibungen &#8211; (Felder: movie_id, abstract) &#8211; Bitte auch insbesondere hier die <a href="/content/Copyright" class="strong" title="Inhalt: Lizenzbedingungen">Lizenzbedingungen</a> beachten!</li>
+		<li><a href="https://www.omdb.org/data/movie_abstracts_en.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_abstracts_en.csv.bz2</a> &#8211; nur englische Kurzbeschreibungen &#8211; (Felder: movie_id, abstract)</li>
+		<li><a href="https://www.omdb.org/data/movie_abstracts_fr.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_abstracts_fr.csv.bz2</a> &#8211; nur französische Kurzbeschreibungen &#8211; (Felder: movie_id, abstract)</li>
+		<li><a href="https://www.omdb.org/data/movie_abstracts_es.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_abstracts_es.csv.bz2</a> &#8211; nur spanische Kurzbeschreibungen &#8211; (Felder: movie_id, abstract)</li>
+		<li><a href="https://www.omdb.org/data/movie_content_updates.csv.bz2" class="external" target="_blank" rel="nofollow noopener">movie_content_updates.csv.bz2</a> (Felder: movie_id, last_update)</li>
+	</ul>
+
+
+	<p>Die letzte Datei, &#8220;movie_content_updates.csv&#8221;, gibt an, wann eine Beschreibung eines Films, ob kurz oder lang, in welcher Sprache auch immer, zum letzten Mal geändert wurde. Hat man also die Beschreibung eines Films schon heruntergeladen, ist es auf jeden Fall sinnlos, sie nochmal herunterzuladen wenn sich das entsprechende Datum nicht geändert hat. Filme, deren Ids in dieser Liste fehlen, haben gar keine Beschreibung. (Umgekehrt sind aber auch Ids von Filmen in der Liste, die gelöscht wurden)</p>
+
+
+	<p>Um Daten eines bestimmten Films im <span class="caps">XML</span>-Format zu erhalten, muss an die Url <strong>&#8221;/embed_data&#8221;</strong> gehängt werden, also <strong>https://www.omdb.org/movie/[movie_id]/embed_data</strong></p>
+
+
+	<p>Es ist empfehlenswert, von omdb geladene Daten zu cachen und nicht ständig neu herunterzuladen. In weit über 90% der Filme ändern sich die Daten über Monate nicht. Bei den obigen Dateien lässt sich am Zeitstempel überprüfen, ob sich die Datei geändert hat und ein neuer Download nötig ist. Wenn durch zu häufige oder zu aggressive Downloads der Server zu stark belastet wird, müssen wir unter Umständen Gegenmaßnahmen ergreifen.</p>
+
+
+	<p>Die Formatierungen sind noch nicht dauerhaft festgelegt, können sich daher noch ändern.</p>
+
+
+<h2>omdb auf deiner Homepage</h2>
+
+
+	<p>omdb-Informationen zu Filmen lassen sich auch auf der eigenen Homepage einbinden, siehe dazu <a href="/content/Help:EmbedMovieInformation" class="strong" title="Inhalt: Filminformationen einbinden">Filminformationen einbinden</a>.</p>
+  
+</div>
+
+<div id="wiki-actions">
+    
+
+
+
+</div>
+
+          </div>
+        </div>
+		<div id="footer" class="small">
+            <p>Alle Textinformationen auf dieser Seite sind lizenziert unter den Bedingungen der Creative Commons-Lizenz.
+            Für mehr Informationen, siehe bitte unter <a href="/content/Copyright">Copyright</a> nach.
+            Wir kooperieren mit <a href="https://www.tvbrowser.org/">TV-Browser</a>.</p>
+            <p><a href="/content/Imprint">Impressum</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/content/ConditionsOfUse">Nutzungsbedingungen</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/content/PrivacyPolicy">Datenschutzerklärung</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/content/Copyright">Copyright</a></p>			
+            <p><a href="/session/set_layout?layout=mobile" onclick="set_layout('mobile')">Mobile</a></p>
+        </div>
+       </div>
+      </div>
+	</div>
+    
+    
+<script type="text/javascript">
+function afterLoad() {
+  new Ajax.Autocompleter('search_input', 'search_auto_complete', '/search/all_autocomplete', {afterUpdateElement: setSearch, frequency: 0.5, minChars: 3});
+  
+}
+</script>
+      <script src="https://www.omdb.org/javascripts/note-de.js?1575327884" type="text/javascript"></script>      <script async="async" onload="afterLoad()" src="https://www.omdb.org/javascripts/app.js?1524347591" type="text/javascript"></script>    
+  </body>
+</html>
