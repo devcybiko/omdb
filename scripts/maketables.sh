@@ -40,4 +40,4 @@ for (( i=0; i<$len; i++ )); do
 	fi
 done
 
-mysql --defaults-extra-file=../local.cnf -v -u root omdb < omdb.sql
+#mysql --defaults-extra-file=../local.cnf -v -u root omdb < omdb.sql
